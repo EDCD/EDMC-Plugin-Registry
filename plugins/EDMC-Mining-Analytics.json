@@ -1,0 +1,20 @@
+
+  {
+    "pluginName": "EDMC-Mining-Analytics",
+    "pluginVer": "0.5.3",
+    "pluginZip": "https://github.com/SweetJonnySauce/EDMC-Mining-Analytics/releases/download/0.5.3/EDMC-Mining-Analytics-0.5.3.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": ["SweetJonnySauce"],
+    "pluginMainLink": "https://github.com/SweetJonnySauce/EDMC-Mining-Analytics",
+    "pluginLastUpdate": "2026-01-10",
+    "pluginDirName": "EDMC-Mining-Analytics",
+    "pluginCategory": ["Mining"],
+    "pluginDesc": "Track your Mining statistics and efficiency with EDMC-Mining-Analytics.",
+    "pluginLastTestedEDMC": "6.0.0",
+    "pluginRequirements": [],
+    "pluginLicense": "GPL-3.0-or-later",
+    "pluginIcon": "",
+    "pluginVT": "https://www.virustotal.com/gui/file/997e178c8a0968346e37efb2bc29f9f73c308c247a595355b3279f3cc93b9924?nocache=1",
+    "pluginHash": ""
+    }
