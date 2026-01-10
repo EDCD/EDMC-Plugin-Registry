@@ -12,23 +12,26 @@ After review, and ensuring that your plugin meets all the standards, you can ope
 The current fields expected are:
 - `pluginName`: (str) The name of the plugin.
 - `pluginVer`: (str) A Semantic Version compatible version string.
-- `pluginZip`: (str) A link to the latest release archive of the plugin. 
 - `autoUpdateEnabled`: (bool) A boolean value that determines if the plugin can attempt to auto-update.
 - `autoInstallEnabled`: (bool) A boolean value that determines if the plugin can attempt to automatically install itself.
 - `pluginAuthors`: (list) A list of strings, where each string is an author or authorized maintainer of a plugin. 
 - `pluginMainLink`: (str) A web URL for the main project page.
 - `pluginLastUpdate`: (str) The date of the last plugin update.
 - `pluginDirName`: (str) The directory the plugin is loaded from by default. Generally, this is the name of the plugin.
-- `pluginCagegory`: (list) A list of strings of which categories the plugin belongs to. Valid categories are listed below. 
+- `pluginCategory`: (list) A list of strings of which categories the plugin belongs to. Valid categories are listed below. 
 - `pluginDesc`: (str) A brief description of the plugin's purpose. 
 - `pluginLastTestedEDMC`: (str) The last version of EDMC this plugin was tested against. 
 - `pluginLicense`: (str) The SPDX license string for your plugin's chosen license.
-- `pluginVT`: (str) A link to the plugin's release archive upload to VirusTotal (or another similar tool).
-- `pluginHash`: (str) the SHA256 Hash Value of the plugin's release archive. 
+
+### Recommended Fields:
+These fields will be required in order to use the upcoming Auto Update or Auto Install functionality. 
+- `pluginHash`: (str) the SHA256 Hash Value of the plugin's release archive.
+- `pluginZip`: (str) A link to the latest release archive of the plugin. 
 
 ### Optional Fields: 
 - `pluginRequirements`: (list) A list of strings, where each string is a non-standard requirement needed for the plugin to work, or the name of another plugin required. 
-- `pluginIcon`: (str) A web link to a PNG or ICO file for a plugin. 
+- `pluginIcon`: (str) A web link to a PNG or ICO file for a plugin.
+- `pluginVT`: (str) A link to the plugin's release archive upload to VirusTotal (or another similar tool).
 
 Currently, `autoUpdateEnabled` and `autoInstallEnabled` should both be left at False, as these represent future features that are not currently available. 
 

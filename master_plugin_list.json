@@ -1,0 +1,31 @@
+[
+  {
+    "pluginName": "EDMCModernOverlay",
+    "pluginVer": "0.7.6",
+    "pluginZip": "",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "SweetJonnySauce"
+    ],
+    "pluginMainLink": "https://github.com/SweetJonnySauce/EDMCModernOverlay",
+    "pluginLastUpdate": "2026-01-03",
+    "pluginDirName": "EDMCModernOverlay",
+    "pluginCategory": [
+      "Utility",
+      "Other"
+    ],
+    "pluginDesc": "A cross platform (Windows & Linux) EDMC utility plugin that allows other plugins to display on-screen overlays in game.",
+    "pluginLastTestedEDMC": "6.0.0",
+    "pluginRequirements": [
+      "PyQt6 installed via bundled installers",
+      "Various OS dependencies to support various distros of Linux (See project Wiki)",
+      "Other plugins that send Overlay messages"
+    ],
+    "pluginLicense": "GPL-3.0-or-later",
+    "pluginIcon": "https://github.com/SweetJonnySauce/EDMCModernOverlay/blob/main/extras/EDMCModernOverlay.ico",
+    "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.7.6/vt-transparency.html",
+    "pluginHash": "",
+    "pluginStars": "27"
+  }
+]

@@ -11,7 +11,6 @@ assignees: ''
 - Name of the Plugin: 
 - Description of the Plugin: 
 - Categories of the Plugin: 
-- VirusTotal submission Link of Release ZIP: 
 - Last Version of EDMC Tested: 
 
 **Additional context**
@@ -22,4 +21,4 @@ assignees: ''
 - [ ] I am an author for this plugin.
 - [ ] I have read and agree to the standards in our [Standards Documentation](/docs/STANDARDS.md).
 - [ ] I am authorized to submit this plugin for listing.
-- [ ] This plugin contains a VERSION constant in Semantic Versioning style.
+# - [ ] This plugin contains a `VERSION` constant or `__version__` dunder in Semantic Versioning style.
