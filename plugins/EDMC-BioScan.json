@@ -1,0 +1,20 @@
+
+  {
+    "pluginName": "EDMC-BioScan",
+    "pluginVer": "2.12.2",
+    "pluginZip": "https://github.com/Silarn/EDMC-BioScan/releases/download/v2.12.2/EDMC-BioScan-2.12.2.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": ["Silarn"],
+    "pluginMainLink": "https://github.com/Silarn/EDMC-BioScan",
+    "pluginLastUpdate": "2026-01-10",
+    "pluginDirName": "EDMC-BioScan",
+    "pluginCategory": ["Exploration", "Navigation", "Utility"],
+    "pluginDesc": "Exobiology plugin for EDMC - Species deduction engine for biological signals and analysis aid.",
+    "pluginLastTestedEDMC": "6.1.0",
+    "pluginRequirements": ["ExploData"],
+    "pluginLicense": "GPL-2.0-or-later",
+    "pluginIcon": "",
+    "pluginVT": "",
+    "pluginHash": "dfc8d8233ba9f3d4357757e6d3f4a3fd52d1169cdb25a168af0ffe2e45dfa1dd"
+    }

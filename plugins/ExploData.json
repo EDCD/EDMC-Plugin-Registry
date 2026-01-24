@@ -1,0 +1,20 @@
+
+  {
+    "pluginName": "ExploData",
+    "pluginVer": "1.5.1",
+    "pluginZip": "https://github.com/Silarn/EDMC-BioScan/releases/download/v2.12.2/ExploData-1.5.1-db-12.windows.exe.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": ["Silarn"],
+    "pluginMainLink": "https://github.com/Silarn/EDMC-ExploData",
+    "pluginLastUpdate": "2026-01-10",
+    "pluginDirName": "ExploData",
+    "pluginCategory": ["Utility", "Other"],
+    "pluginDesc": "Database backend for BioScan and Pioneer. Parses and stores journal data for persistency.",
+    "pluginLastTestedEDMC": "6.1.0",
+    "pluginRequirements": ["SQLAlchemy"],
+    "pluginLicense": "GPL-2.0-or-later",
+    "pluginIcon": "",
+    "pluginVT": "",
+    "pluginHash": "c43a11a9b56e534c419c2e799ae503deb17021d33aa288677b2d47fcd7ddd002"
+    }
