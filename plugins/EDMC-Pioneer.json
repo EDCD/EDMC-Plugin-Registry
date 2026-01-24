@@ -1,0 +1,20 @@
+
+  {
+    "pluginName": "EDMC-Pioneer",
+    "pluginVer": "2.4.2",
+    "pluginZip": "https://github.com/Silarn/EDMC-Pioneer/releases/download/v2.4.2/EDMC-Pioneer-2.4.2.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": ["Silarn"],
+    "pluginMainLink": "https://github.com/Silarn/EDMC-Pioneer",
+    "pluginLastUpdate": "2026-01-10",
+    "pluginDirName": "EDMC-Pioneer",
+    "pluginCategory": ["Exploration", "Utility"],
+    "pluginDesc": "Tracks system scan status, calculates values of system bodies, highlights high value targets, and body info.",
+    "pluginLastTestedEDMC": "6.1.0",
+    "pluginRequirements": ["ExploData"],
+    "pluginLicense": "GPL-2.0-or-later",
+    "pluginIcon": "",
+    "pluginVT": "",
+    "pluginHash": "f6719ccb780247fc5a721eb56b251b81be93df4659d0215c81895574f24cff32"
+    }
