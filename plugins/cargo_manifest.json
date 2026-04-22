@@ -1,13 +1,13 @@
 {
     "pluginName": "Cargo Manifest",
-    "pluginVer": "2.1.0",
+    "pluginVer": "2.1.2",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
         "Cmdr Inutt"
     ],
     "pluginMainLink": "https://gitlab.com/inutt/edmc-cargo-manifest",
-    "pluginLastUpdate": "2026-03-01",
+    "pluginLastUpdate": "2026-04-22",
     "pluginDirName": "cargo_manifest",
     "pluginCategory": [
         "Trading"
@@ -15,8 +15,8 @@
     "pluginDesc": "Shows a list of what's in your cargo hold along with its approximate value.",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginLicense": "GPL-3.0-or-later",
-    "pluginHash": "ef3d6433239c93da9227cd195a4522958571844430c7c1cd7825205847dd718a",
-    "pluginZip": "https://gitlab.com/inutt/edmc-cargo-manifest/-/releases/v2.1.0/downloads/cargo_manifest.zip",
+    "pluginHash": "192ddea53798b0e8c781a5d88e2bf3f1a9b826805e17621ae35bfceb93e0cac6",
+    "pluginZip": "https://gitlab.com/inutt/edmc-cargo-manifest/-/releases/v2.1.2/downloads/cargo_manifest.zip",
     "pluginRequirements": [],
     "pluginIcon": "https://gitlab.com/inutt/edmc-cargo-manifest/-/raw/main/img/icon.png",
     "pluginVT": ""
