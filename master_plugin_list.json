@@ -1,15 +1,15 @@
 [
   {
     "pluginName": "Architect Tracker",
-    "pluginVer": "1.3",
-    "pluginZip": "https://github.com/kfpopeye/EliteDangerous/archive/refs/tags/v1.3.zip",
+    "pluginVer": "1.4",
+    "pluginZip": "https://github.com/kfpopeye/EliteDangerous/archive/refs/tags/v1.4.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "kf popeye"
     ],
     "pluginMainLink": "https://github.com/kfpopeye/EliteDangerous",
-    "pluginLastUpdate": "2026-02-23",
+    "pluginLastUpdate": "2026-03-20",
     "pluginDirName": "ArchitectTracker",
     "pluginCategory": [
       "Colonisation"
@@ -21,7 +21,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "",
-    "pluginStars": "5"
+    "pluginStars": "6"
   },
   {
     "pluginName": "BGS-Tally",
@@ -48,7 +48,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/aussig/BGS-Tally/refs/heads/develop/assets/logo_bgstally_100x67.png",
     "pluginVT": "https://www.virustotal.com/gui/url/eaf0b89be98a16d0791da383da6fd12c4f585ff43b15cc84bb147350f3092b4a",
     "pluginHash": "339f8ca25efb76366075c821a0a9b9abf11ab68e73c355761378dbcecf2bdbbd",
-    "pluginStars": "51"
+    "pluginStars": "54"
   },
   {
     "pluginName": "EDMC-BioScan",
@@ -76,7 +76,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "dfc8d8233ba9f3d4357757e6d3f4a3fd52d1169cdb25a168af0ffe2e45dfa1dd",
-    "pluginStars": "33"
+    "pluginStars": "36"
   },
   {
     "pluginName": "EDMC-LogEventMiner",
@@ -106,7 +106,7 @@
   },
   {
     "pluginName": "EDMC-Mining-Analytics",
-    "pluginVer": "0.6.0",
+    "pluginVer": "1.0.0",
     "pluginZip": "https://github.com/SweetJonnySauce/EDMC-Mining-Analytics/releases/download/0.6.0/EDMC-Mining-Analytics-0.6.0.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
@@ -114,7 +114,7 @@
       "SweetJonnySauce"
     ],
     "pluginMainLink": "https://github.com/SweetJonnySauce/EDMC-Mining-Analytics",
-    "pluginLastUpdate": "2026-01-29",
+    "pluginLastUpdate": "2026-03-29",
     "pluginDirName": "EDMC-Mining-Analytics",
     "pluginCategory": [
       "Mining"
@@ -124,9 +124,9 @@
     "pluginRequirements": [],
     "pluginLicense": "GPL-3.0-or-later",
     "pluginIcon": "",
-    "pluginVT": "https://www.virustotal.com/gui/file/997e178c8a0968346e37efb2bc29f9f73c308c247a595355b3279f3cc93b9924?nocache=1",
+    "pluginVT": "https://www.virustotal.com/gui/url/0b86225d410a7206430b2e341e5d3bb1cccff202b05b2cba3846fe62427f87c6?nocache=1",
     "pluginHash": "",
-    "pluginStars": "19"
+    "pluginStars": "22"
   },
   {
     "pluginName": "EDMC-NavRoute",
@@ -157,28 +157,28 @@
   },
   {
     "pluginName": "EDMC-NeutronDancer",
-    "pluginVer": "1.7.0",
-    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v1.7.0/EDMC-NeutronDancer.zip",
+    "pluginVer": "1.8.0",
+    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v1.8.0/EDMC-NeutronDancer.zip",
     "autoUpdateEnabled": true,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "dwomble"
     ],
     "pluginMainLink": "https://github.com/dwomble/EDMC-NeutronDancer",
-    "pluginLastUpdate": "2026-02-12",
+    "pluginLastUpdate": "2026-03-09",
     "pluginDirName": "EDMC-NeutronDancer",
     "pluginCategory": [
       "Navigation",
       "Exploration"
     ],
-    "pluginDesc": "Simplifies and automates plotting and following Spansh Galaxy, Neutron, and other routes.",
-    "pluginLastTestedEDMC": "6.1.0",
+    "pluginDesc": "The easiest way to use Spansh' sophisticated Galaxy Plotter from within EDMC. Supports Galaxy, Neutron, and other Spansh routes. Includes overlay, hotkey, and chat command support along with jump statistics, cooldown timers, and refuel notifications.",
+    "pluginLastTestedEDMC": "6.1.2",
     "pluginRequirements": [],
     "pluginLicense": "MIT License",
     "pluginIcon": "",
-    "pluginVT": "https://www.virustotal.com/gui/file/b1f6fb98de82c69f4ca5fc6d83764c3f94481cf0f895ddf7537653254e611978/details",
-    "pluginHash": "b1f6fb98de82c69f4ca5fc6d83764c3f94481cf0f895ddf7537653254e611978",
-    "pluginStars": "11"
+    "pluginVT": "https://www.virustotal.com/gui/url/2aa7e21570b0a164c9c7895a0fb011a238d3a1561cd90767ae19640ade877cf9/details",
+    "pluginHash": "2aa7e21570b0a164c9c7895a0fb011a238d3a1561cd90767ae19640ade877cf9",
+    "pluginStars": "12"
   },
   {
     "pluginName": "EDMC-Pioneer",
@@ -205,7 +205,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "f6719ccb780247fc5a721eb56b251b81be93df4659d0215c81895574f24cff32",
-    "pluginStars": "19"
+    "pluginStars": "21"
   },
   {
     "pluginName": "EDMC-PowerPlayProgress",
@@ -230,11 +230,38 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "1f15faa47a7c8521fffd24058cc583d57cbd054a43f7971d747255f9a2552e4c",
-    "pluginStars": "10"
+    "pluginStars": "13"
+  },
+  {
+    "pluginName": "EDMCHotkeys",
+    "pluginVer": "0.5.0",
+    "pluginZip": "https://github.com/SweetJonnySauce/EDMCHotkeys/releases/download/v0.5.0/EDMCHotkeys-windows-v0.5.0.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "SweetJonnySauce"
+    ],
+    "pluginMainLink": "https://github.com/SweetJonnySauce/EDMCHotkeys",
+    "pluginLastUpdate": "2026-03-09",
+    "pluginDirName": "EDMCHotkeys",
+    "pluginCategory": [
+      "Utility",
+      "Other"
+    ],
+    "pluginDesc": "Provide Hotkey support for EDMC Plugins.",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginRequirements": [
+      "Other plugins with hotkey actions implemented."
+    ],
+    "pluginLicense": "GPL-3.0-or-later",
+    "pluginIcon": "",
+    "pluginVT": "https://www.virustotal.com/gui/file-analysis/MThlNTY5YTI4N2Y3OGNhNDE3ZjIyZGFlNDE0MTFkZmY6MTc3MzEwODQ3Mg==",
+    "pluginHash": "",
+    "pluginStars": "2"
   },
   {
     "pluginName": "EDMCModernOverlay",
-    "pluginVer": "0.7.7",
+    "pluginVer": "0.8.0",
     "pluginZip": "",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
@@ -242,7 +269,7 @@
       "SweetJonnySauce"
     ],
     "pluginMainLink": "https://github.com/SweetJonnySauce/EDMCModernOverlay",
-    "pluginLastUpdate": "2026-02-21",
+    "pluginLastUpdate": "2026-03-14",
     "pluginDirName": "EDMCModernOverlay",
     "pluginCategory": [
       "Utility",
@@ -257,9 +284,9 @@
     ],
     "pluginLicense": "GPL-3.0-or-later",
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
-    "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.7.7/vt-transparency.html",
+    "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.8.0/vt-transparency.html",
     "pluginHash": "",
-    "pluginStars": "39"
+    "pluginStars": "41"
   },
   {
     "pluginName": "GalaxyGPS",
@@ -312,7 +339,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "c43a11a9b56e534c419c2e799ae503deb17021d33aa288677b2d47fcd7ddd002",
-    "pluginStars": "8"
+    "pluginStars": "9"
   },
   {
     "pluginName": "LandingPad",
@@ -337,7 +364,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
     "pluginHash": "4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
-    "pluginStars": "43"
+    "pluginStars": "45"
   },
   {
     "pluginName": "UpdateTD",
@@ -372,9 +399,11 @@
       "Cmdr Inutt"
     ],
     "pluginMainLink": "https://gitlab.com/inutt/edmc-cargo-manifest",
-    "pluginLastUpdate": "2026-03-01T09:28:05.619Z",
+    "pluginLastUpdate": "2026-03-01",
     "pluginDirName": "cargo_manifest",
-    "pluginCategory": "Trading",
+    "pluginCategory": [
+      "Trading"
+    ],
     "pluginDesc": "Shows a list of what's in your cargo hold along with its approximate value.",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginLicense": "GPL-3.0-or-later",

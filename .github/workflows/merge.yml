@@ -102,7 +102,7 @@ jobs:
 
             print(f"Wrote {len(plugins)} plugins to {output_file}")
       - name: push file to main
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10
         with:
           add: 'master_plugin_list.json'
           default_author: github_actor

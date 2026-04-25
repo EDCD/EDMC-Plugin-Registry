@@ -7,9 +7,11 @@
         "Cmdr Inutt"
     ],
     "pluginMainLink": "https://gitlab.com/inutt/edmc-cargo-manifest",
-    "pluginLastUpdate": "2026-03-01T09:28:05.619Z",
+    "pluginLastUpdate": "2026-03-01",
     "pluginDirName": "cargo_manifest",
-    "pluginCategory": "Trading",
+    "pluginCategory": [
+        "Trading"
+    ],
     "pluginDesc": "Shows a list of what's in your cargo hold along with its approximate value.",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginLicense": "GPL-3.0-or-later",
