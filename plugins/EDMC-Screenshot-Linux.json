@@ -1,0 +1,16 @@
+{
+  "pluginName": "EDMC Screenshot Linux",
+  "pluginVer": "0.1.4",
+  "autoUpdateEnabled": false,
+  "autoInstallEnabled": false,
+  "pluginAuthors": ["adieball"],
+  "pluginMainLink": "https://github.com/adieball/EDMC-Screenshot-Linux",
+  "pluginLastUpdate": "2026-04-23",
+  "pluginDirName": "EDMC-Screenshot-Linux",
+  "pluginCategory": ["Utility"],
+  "pluginDesc": "Automatically converts Elite Dangerous BMP screenshots to PNG on Linux, with configurable naming formats and separate input/output directory settings. Shows a thumbnail preview in the EDMC main window.",
+  "pluginLastTestedEDMC": "6.1.2",
+  "pluginLicense": "MIT",
+  "pluginHash": "bf838ceb96486aad0f7fa3917219f08bc71479a89f00895854b290e900988744",
+  "pluginZip": "https://github.com/adieball/EDMC-Screenshot-Linux/releases/download/0.1.4/EDMC-Screenshot-Linux.zip"
+}
