@@ -1,20 +1,20 @@
 [
   {
     "pluginName": "Architect Tracker",
-    "pluginVer": "1.4",
-    "pluginZip": "https://github.com/kfpopeye/EliteDangerous/archive/refs/tags/v1.4.zip",
+    "pluginVer": "1.5",
+    "pluginZip": "https://github.com/kfpopeye/EliteDangerous/archive/refs/tags/v1.5.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "kf popeye"
     ],
     "pluginMainLink": "https://github.com/kfpopeye/EliteDangerous",
-    "pluginLastUpdate": "2026-03-20",
+    "pluginLastUpdate": "2026-04-04",
     "pluginDirName": "ArchitectTracker",
     "pluginCategory": [
       "Colonisation"
     ],
-    "pluginDesc": "Tracks and compares materials required by construction sites to those loaded on ship and fleet carrier. Designed for VR users.",
+    "pluginDesc": "Tracks and compares materials required by construction sites to those loaded on ship and fleet carrier and the markets they can be bought at. Designed for VR users.",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginRequirements": [],
     "pluginLicense": "GPL-2.0",
@@ -157,15 +157,15 @@
   },
   {
     "pluginName": "EDMC-NeutronDancer",
-    "pluginVer": "1.8.0",
-    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v1.8.0/EDMC-NeutronDancer.zip",
+    "pluginVer": "1.9.0",
+    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v1.9.0/EDMC-NeutronDancer.zip",
     "autoUpdateEnabled": true,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "dwomble"
     ],
     "pluginMainLink": "https://github.com/dwomble/EDMC-NeutronDancer",
-    "pluginLastUpdate": "2026-03-09",
+    "pluginLastUpdate": "2026-04-24",
     "pluginDirName": "EDMC-NeutronDancer",
     "pluginCategory": [
       "Navigation",
@@ -176,8 +176,8 @@
     "pluginRequirements": [],
     "pluginLicense": "MIT License",
     "pluginIcon": "",
-    "pluginVT": "https://www.virustotal.com/gui/url/2aa7e21570b0a164c9c7895a0fb011a238d3a1561cd90767ae19640ade877cf9/details",
-    "pluginHash": "2aa7e21570b0a164c9c7895a0fb011a238d3a1561cd90767ae19640ade877cf9",
+    "pluginVT": "https://www.virustotal.com/gui/file/f77c366ea4d4170d7c39939b2632e5cb94dbbf516c0eac8ef7041a86a88169ba",
+    "pluginHash": "f77c366ea4d4170d7c39939b2632e5cb94dbbf516c0eac8ef7041a86a88169ba",
     "pluginStars": "12"
   },
   {
@@ -233,6 +233,27 @@
     "pluginStars": "13"
   },
   {
+    "pluginName": "EDMC Screenshot Linux",
+    "pluginVer": "0.1.4",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "adieball"
+    ],
+    "pluginMainLink": "https://github.com/adieball/EDMC-Screenshot-Linux",
+    "pluginLastUpdate": "2026-04-23",
+    "pluginDirName": "EDMC-Screenshot-Linux",
+    "pluginCategory": [
+      "Utility"
+    ],
+    "pluginDesc": "Automatically converts Elite Dangerous BMP screenshots to PNG on Linux, with configurable naming formats and separate input/output directory settings. Shows a thumbnail preview in the EDMC main window.",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginLicense": "MIT",
+    "pluginHash": "bf838ceb96486aad0f7fa3917219f08bc71479a89f00895854b290e900988744",
+    "pluginZip": "https://github.com/adieball/EDMC-Screenshot-Linux/releases/download/0.1.4/EDMC-Screenshot-Linux.zip",
+    "pluginStars": "0"
+  },
+  {
     "pluginName": "EDMCHotkeys",
     "pluginVer": "0.5.0",
     "pluginZip": "https://github.com/SweetJonnySauce/EDMCHotkeys/releases/download/v0.5.0/EDMCHotkeys-windows-v0.5.0.zip",
@@ -286,7 +307,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
     "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.8.0/vt-transparency.html",
     "pluginHash": "",
-    "pluginStars": "41"
+    "pluginStars": "42"
   },
   {
     "pluginName": "GalaxyGPS",
@@ -342,6 +363,32 @@
     "pluginStars": "9"
   },
   {
+    "pluginName": "I.D.R.A.",
+    "pluginVer": "1.2.0",
+    "pluginZip": "https://github.com/CMDR-Sigm4/I.D.R.A./releases/download/v1.2.0/IDRA.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "CMDR-Sigm4"
+    ],
+    "pluginMainLink": "https://github.com/CMDR-Sigm4/I.D.R.A.",
+    "pluginLastUpdate": "2026-04-03",
+    "pluginDirName": "IDRA",
+    "pluginCategory": [
+      "Combat",
+      "Utility",
+      "Social"
+    ],
+    "pluginDesc": "Real-time PvP alerting and system context plugin for EDMC with channel controls, watchlist, and privacy-first design.",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginRequirements": [],
+    "pluginLicense": "GPL-2.0-or-later",
+    "pluginIcon": "https://raw.githubusercontent.com/CMDR-Sigm4/I.D.R.A./main/idra_icon_64.png",
+    "pluginVT": "https://www.virustotal.com/gui/url-analysis/u-4978692787d7327cb8b87c264048a57d2ea55997f9653d1ae0ec780d930794af-93d59abb",
+    "pluginHash": "10803660b0e2815ca9a2895101901708794f0c9b0553e3186825cf564c99e4ef",
+    "pluginStars": ""
+  },
+  {
     "pluginName": "LandingPad",
     "pluginVer": "2.5.7",
     "pluginZip": "https://github.com/bgol/LandingPad/releases/download/v2.5.7/LandingPad_v2.5.7.zip",
@@ -392,14 +439,14 @@
   },
   {
     "pluginName": "Cargo Manifest",
-    "pluginVer": "2.1.0",
+    "pluginVer": "2.1.2",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "Cmdr Inutt"
     ],
     "pluginMainLink": "https://gitlab.com/inutt/edmc-cargo-manifest",
-    "pluginLastUpdate": "2026-03-01",
+    "pluginLastUpdate": "2026-04-22",
     "pluginDirName": "cargo_manifest",
     "pluginCategory": [
       "Trading"
@@ -407,8 +454,8 @@
     "pluginDesc": "Shows a list of what's in your cargo hold along with its approximate value.",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginLicense": "GPL-3.0-or-later",
-    "pluginHash": "ef3d6433239c93da9227cd195a4522958571844430c7c1cd7825205847dd718a",
-    "pluginZip": "https://gitlab.com/inutt/edmc-cargo-manifest/-/releases/v2.1.0/downloads/cargo_manifest.zip",
+    "pluginHash": "192ddea53798b0e8c781a5d88e2bf3f1a9b826805e17621ae35bfceb93e0cac6",
+    "pluginZip": "https://gitlab.com/inutt/edmc-cargo-manifest/-/releases/v2.1.2/downloads/cargo_manifest.zip",
     "pluginRequirements": [],
     "pluginIcon": "https://gitlab.com/inutt/edmc-cargo-manifest/-/raw/main/img/icon.png",
     "pluginVT": "",
