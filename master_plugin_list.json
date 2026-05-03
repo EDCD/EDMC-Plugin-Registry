@@ -106,25 +106,25 @@
   },
   {
     "pluginName": "EDMC-Mining-Analytics",
-    "pluginVer": "1.0.0",
-    "pluginZip": "https://github.com/SweetJonnySauce/EDMC-Mining-Analytics/releases/download/0.6.0/EDMC-Mining-Analytics-0.6.0.zip",
+    "pluginVer": "1.2.0",
+    "pluginZip": "https://github.com/SweetJonnySauce/EDMC-Mining-Analytics/releases/download/1.2.0/EDMC-Mining-Analytics-1.2.0.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "SweetJonnySauce"
     ],
     "pluginMainLink": "https://github.com/SweetJonnySauce/EDMC-Mining-Analytics",
-    "pluginLastUpdate": "2026-03-29",
+    "pluginLastUpdate": "2026-05-02",
     "pluginDirName": "EDMC-Mining-Analytics",
     "pluginCategory": [
       "Mining"
     ],
     "pluginDesc": "Track your Mining statistics and efficiency with EDMC-Mining-Analytics.",
-    "pluginLastTestedEDMC": "6.1.1",
+    "pluginLastTestedEDMC": "6.1.2",
     "pluginRequirements": [],
     "pluginLicense": "GPL-3.0-or-later",
     "pluginIcon": "",
-    "pluginVT": "https://www.virustotal.com/gui/url/0b86225d410a7206430b2e341e5d3bb1cccff202b05b2cba3846fe62427f87c6?nocache=1",
+    "pluginVT": "https://www.virustotal.com/gui/url/883913debe789d3a942cf0d204899236b9cb74e59bdd825834a4e045c64cbfd5?nocache=1",
     "pluginHash": "",
     "pluginStars": "22"
   },
@@ -282,7 +282,7 @@
   },
   {
     "pluginName": "EDMCModernOverlay",
-    "pluginVer": "0.8.0",
+    "pluginVer": "0.9.0",
     "pluginZip": "",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
@@ -290,7 +290,7 @@
       "SweetJonnySauce"
     ],
     "pluginMainLink": "https://github.com/SweetJonnySauce/EDMCModernOverlay",
-    "pluginLastUpdate": "2026-03-14",
+    "pluginLastUpdate": "2026-05-02",
     "pluginDirName": "EDMCModernOverlay",
     "pluginCategory": [
       "Utility",
@@ -305,7 +305,7 @@
     ],
     "pluginLicense": "GPL-3.0-or-later",
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
-    "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.8.0/vt-transparency.html",
+    "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.9.0/vt-transparency.html",
     "pluginHash": "",
     "pluginStars": "42"
   },
@@ -334,6 +334,30 @@
     "pluginVT": "",
     "pluginHash": "47cf74f3f28f191ef54baf4134ac74b964bd177ada4722e4ad1af51fa0196900",
     "pluginStars": "5"
+  },
+  {
+    "pluginName": "ED Recon (EDR)",
+    "pluginVer": "3.3.0",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "lekeno"
+    ],
+    "pluginMainLink": "https://edrecon.com",
+    "pluginLastUpdate": "2026-04-06",
+    "pluginDirName": "edr",
+    "pluginCategory": [
+      "Social",
+      "Combat",
+      "Exploration",
+      "Navigation",
+      "Engineering",
+      "Utility"
+    ],
+    "pluginDesc": "ED Recon (EDR) provides real-time tactical intel including IFF (Identification Friend or Foe) and SitReps, as well as other helpful features for most activities in Elite: Dangerous.",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginLicense": "Apache-2.0",
+    "pluginStars": ""
   },
   {
     "pluginName": "ExploData",
@@ -439,14 +463,14 @@
   },
   {
     "pluginName": "Cargo Manifest",
-    "pluginVer": "2.1.2",
+    "pluginVer": "2.1.3",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "Cmdr Inutt"
     ],
     "pluginMainLink": "https://gitlab.com/inutt/edmc-cargo-manifest",
-    "pluginLastUpdate": "2026-04-22",
+    "pluginLastUpdate": "2026-05-03",
     "pluginDirName": "cargo_manifest",
     "pluginCategory": [
       "Trading"
@@ -454,8 +478,8 @@
     "pluginDesc": "Shows a list of what's in your cargo hold along with its approximate value.",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginLicense": "GPL-3.0-or-later",
-    "pluginHash": "192ddea53798b0e8c781a5d88e2bf3f1a9b826805e17621ae35bfceb93e0cac6",
-    "pluginZip": "https://gitlab.com/inutt/edmc-cargo-manifest/-/releases/v2.1.2/downloads/cargo_manifest.zip",
+    "pluginHash": "90fea70115a3d6dfa7f50097e07c35442c03042abafae66e7fb71846ecabd6e7",
+    "pluginZip": "https://gitlab.com/inutt/edmc-cargo-manifest/-/releases/v2.1.3/downloads/cargo_manifest.zip",
     "pluginRequirements": [],
     "pluginIcon": "https://gitlab.com/inutt/edmc-cargo-manifest/-/raw/main/img/icon.png",
     "pluginVT": "",
