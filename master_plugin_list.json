@@ -25,15 +25,15 @@
   },
   {
     "pluginName": "BGS-Tally",
-    "pluginVer": "5.4.0",
-    "pluginZip": "https://github.com/aussig/BGS-Tally/releases/download/5.4.0/BGS-Tally.zip",
+    "pluginVer": "5.5.1",
+    "pluginZip": "https://github.com/aussig/BGS-Tally/releases/download/5.5.1/BGS-Tally.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "aussig"
     ],
     "pluginMainLink": "https://github.com/aussig/BGS-Tally",
-    "pluginLastUpdate": "2026-01-21",
+    "pluginLastUpdate": "2026-05-11",
     "pluginDirName": "BGS-Tally",
     "pluginCategory": [
       "Colonisation",
@@ -42,12 +42,12 @@
       "Other"
     ],
     "pluginDesc": "A tool to track and report your Background Simulation (BGS), Colonisation, Powerplay and Thargoid War activity in Elite Dangerous. BGS-Tally counts all the work you do across the Elite Dangerous galaxy.",
-    "pluginLastTestedEDMC": "6.1.0-beta5",
+    "pluginLastTestedEDMC": "6.1.2",
     "pluginRequirements": [],
     "pluginLicense": "MIT",
     "pluginIcon": "https://raw.githubusercontent.com/aussig/BGS-Tally/refs/heads/develop/assets/logo_bgstally_100x67.png",
-    "pluginVT": "https://www.virustotal.com/gui/url/eaf0b89be98a16d0791da383da6fd12c4f585ff43b15cc84bb147350f3092b4a",
-    "pluginHash": "339f8ca25efb76366075c821a0a9b9abf11ab68e73c355761378dbcecf2bdbbd",
+    "pluginVT": "https://www.virustotal.com/gui/url/42efa419f93884d42f37ac3ede2628ac72d11861f3e5d5023706160f3ee47d6b",
+    "pluginHash": "bb95a1d9e731da18d3478e9e5c6adf9f42a20bcb689fd90f932573c2bf9e9525",
     "pluginStars": "54"
   },
   {
