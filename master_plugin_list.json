@@ -1,15 +1,15 @@
 [
   {
     "pluginName": "Architect Tracker",
-    "pluginVer": "1.5",
-    "pluginZip": "https://github.com/kfpopeye/EliteDangerous/archive/refs/tags/v1.5.zip",
+    "pluginVer": "1.6",
+    "pluginZip": "https://github.com/kfpopeye/EliteDangerous/archive/refs/tags/v1.6.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "kf popeye"
     ],
     "pluginMainLink": "https://github.com/kfpopeye/EliteDangerous",
-    "pluginLastUpdate": "2026-04-04",
+    "pluginLastUpdate": "2026-06-11",
     "pluginDirName": "ArchitectTracker",
     "pluginCategory": [
       "Colonisation"
@@ -48,7 +48,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/aussig/BGS-Tally/refs/heads/develop/assets/logo_bgstally_100x67.png",
     "pluginVT": "https://www.virustotal.com/gui/url/42efa419f93884d42f37ac3ede2628ac72d11861f3e5d5023706160f3ee47d6b",
     "pluginHash": "bb95a1d9e731da18d3478e9e5c6adf9f42a20bcb689fd90f932573c2bf9e9525",
-    "pluginStars": "54"
+    "pluginStars": "55"
   },
   {
     "pluginName": "EDMC-BioScan",
@@ -230,7 +230,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "1f15faa47a7c8521fffd24058cc583d57cbd054a43f7971d747255f9a2552e4c",
-    "pluginStars": "13"
+    "pluginStars": "14"
   },
   {
     "pluginName": "EDMC Screenshot Linux",
@@ -307,7 +307,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
     "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.9.0/vt-transparency.html",
     "pluginHash": "",
-    "pluginStars": "44"
+    "pluginStars": "45"
   },
   {
     "pluginName": "GalaxyGPS",
@@ -333,7 +333,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "47cf74f3f28f191ef54baf4134ac74b964bd177ada4722e4ad1af51fa0196900",
-    "pluginStars": "6"
+    "pluginStars": "7"
   },
   {
     "pluginName": "ED Recon (EDR)",
@@ -409,7 +409,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
     "pluginHash": "4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
-    "pluginStars": "46"
+    "pluginStars": "47"
   },
   {
     "pluginName": "UpdateTD",
@@ -437,14 +437,14 @@
   },
   {
     "pluginName": "Cargo Manifest",
-    "pluginVer": "2.1.3",
+    "pluginVer": "2.1.4",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "Cmdr Inutt"
     ],
     "pluginMainLink": "https://gitlab.com/inutt/edmc-cargo-manifest",
-    "pluginLastUpdate": "2026-05-03",
+    "pluginLastUpdate": "2026-06-09",
     "pluginDirName": "cargo_manifest",
     "pluginCategory": [
       "Trading"
@@ -452,8 +452,8 @@
     "pluginDesc": "Shows a list of what's in your cargo hold along with its approximate value.",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginLicense": "GPL-3.0-or-later",
-    "pluginHash": "90fea70115a3d6dfa7f50097e07c35442c03042abafae66e7fb71846ecabd6e7",
-    "pluginZip": "https://gitlab.com/inutt/edmc-cargo-manifest/-/releases/v2.1.3/downloads/cargo_manifest.zip",
+    "pluginHash": "1750ec13df87361be0a5d2788349b20acdba04fefecbff27e0f0d1e944df8ff0",
+    "pluginZip": "https://gitlab.com/inutt/edmc-cargo-manifest/-/releases/v2.1.4/downloads/cargo_manifest.zip",
     "pluginRequirements": [],
     "pluginIcon": "https://gitlab.com/inutt/edmc-cargo-manifest/-/raw/main/img/icon.png",
     "pluginVT": "",
