@@ -1,0 +1,19 @@
+  {
+    "pluginName": "Merit Counter",
+    "pluginVer": "1.0.4",
+    "pluginZip": "https://github.com/gaboreszaki/MeritCounter/releases/download/v1.0.4/MeritCounter-1.0.4.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": ["Gabor Eszaki"],
+    "pluginMainLink": "https://github.com/gaboreszaki/MeritCounter",
+    "pluginLastUpdate": "2025-12-12",
+    "pluginDirName": "MeritCounter-1.0.4",
+    "pluginCategory": ["Utility", "Other"],
+    "pluginDesc": "Powerplay 2.0 progress & Merit tracking",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginRequirements": [],
+    "pluginLicense": "Apache License 2.0",
+    "pluginIcon": "",
+    "pluginVT": "https://www.virustotal.com/gui/url/a1708e13b404bce2f97ecf6e8e4d61a9289c3f3baec56683af06e7ddcf84a79a/detection",
+    "pluginHash": "sha256:23557bf0820ffb20c5b81c4ecc72dcd96eb10f4e0982df897d211bbaf2c96749"
+  }
