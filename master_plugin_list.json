@@ -76,7 +76,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "dfc8d8233ba9f3d4357757e6d3f4a3fd52d1169cdb25a168af0ffe2e45dfa1dd",
-    "pluginStars": "39"
+    "pluginStars": "40"
   },
   {
     "pluginName": "EDMC-LogEventMiner",
@@ -153,7 +153,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "fe0843c4546c357150eb11846809869bd965a1af5e3e3112a17792b88d6197c7",
-    "pluginStars": "2"
+    "pluginStars": "3"
   },
   {
     "pluginName": "EDMC-NeutronDancer",
@@ -178,7 +178,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/f77c366ea4d4170d7c39939b2632e5cb94dbbf516c0eac8ef7041a86a88169ba",
     "pluginHash": "f77c366ea4d4170d7c39939b2632e5cb94dbbf516c0eac8ef7041a86a88169ba",
-    "pluginStars": "16"
+    "pluginStars": "17"
   },
   {
     "pluginName": "EDMC-Pioneer",
@@ -205,7 +205,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "f6719ccb780247fc5a721eb56b251b81be93df4659d0215c81895574f24cff32",
-    "pluginStars": "24"
+    "pluginStars": "25"
   },
   {
     "pluginName": "EDMC-PowerPlayProgress",
@@ -278,7 +278,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file-analysis/MThlNTY5YTI4N2Y3OGNhNDE3ZjIyZGFlNDE0MTFkZmY6MTc3MzEwODQ3Mg==",
     "pluginHash": "",
-    "pluginStars": "2"
+    "pluginStars": "3"
   },
   {
     "pluginName": "EDMCModernOverlay",
@@ -307,7 +307,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
     "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.9.0/vt-transparency.html",
     "pluginHash": "",
-    "pluginStars": "46"
+    "pluginStars": "47"
   },
   {
     "pluginName": "GalaxyGPS",
@@ -433,7 +433,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/43ea695110fb4516de7e16e0c44f039dbb1fff717b22da8c10eba5139deeaf44",
     "pluginHash": "43ea695110fb4516de7e16e0c44f039dbb1fff717b22da8c10eba5139deeaf44",
-    "pluginStars": "3"
+    "pluginStars": "4"
   },
   {
     "pluginName": "Cargo Manifest",
