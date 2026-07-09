@@ -21,7 +21,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "",
-    "pluginStars": "6"
+    "pluginStars": "7"
   },
   {
     "pluginName": "BGS-Tally",
@@ -48,7 +48,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/aussig/BGS-Tally/refs/heads/develop/assets/logo_bgstally_100x67.png",
     "pluginVT": "https://www.virustotal.com/gui/url/42efa419f93884d42f37ac3ede2628ac72d11861f3e5d5023706160f3ee47d6b",
     "pluginHash": "bb95a1d9e731da18d3478e9e5c6adf9f42a20bcb689fd90f932573c2bf9e9525",
-    "pluginStars": "56"
+    "pluginStars": "58"
   },
   {
     "pluginName": "EDMC-BioScan",
@@ -76,7 +76,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "dfc8d8233ba9f3d4357757e6d3f4a3fd52d1169cdb25a168af0ffe2e45dfa1dd",
-    "pluginStars": "39"
+    "pluginStars": "40"
   },
   {
     "pluginName": "EDMC-LogEventMiner",
@@ -153,7 +153,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "fe0843c4546c357150eb11846809869bd965a1af5e3e3112a17792b88d6197c7",
-    "pluginStars": "2"
+    "pluginStars": "3"
   },
   {
     "pluginName": "EDMC-NeutronDancer",
@@ -178,7 +178,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/f77c366ea4d4170d7c39939b2632e5cb94dbbf516c0eac8ef7041a86a88169ba",
     "pluginHash": "f77c366ea4d4170d7c39939b2632e5cb94dbbf516c0eac8ef7041a86a88169ba",
-    "pluginStars": "16"
+    "pluginStars": "17"
   },
   {
     "pluginName": "EDMC-Pioneer",
@@ -205,7 +205,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "f6719ccb780247fc5a721eb56b251b81be93df4659d0215c81895574f24cff32",
-    "pluginStars": "24"
+    "pluginStars": "26"
   },
   {
     "pluginName": "EDMC-PowerPlayProgress",
@@ -278,7 +278,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file-analysis/MThlNTY5YTI4N2Y3OGNhNDE3ZjIyZGFlNDE0MTFkZmY6MTc3MzEwODQ3Mg==",
     "pluginHash": "",
-    "pluginStars": "2"
+    "pluginStars": "3"
   },
   {
     "pluginName": "EDMCModernOverlay",
@@ -307,7 +307,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
     "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.9.0/vt-transparency.html",
     "pluginHash": "",
-    "pluginStars": "46"
+    "pluginStars": "48"
   },
   {
     "pluginName": "GalaxyGPS",
@@ -384,7 +384,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "c43a11a9b56e534c419c2e799ae503deb17021d33aa288677b2d47fcd7ddd002",
-    "pluginStars": "9"
+    "pluginStars": "10"
   },
   {
     "pluginName": "LandingPad",
@@ -433,7 +433,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/43ea695110fb4516de7e16e0c44f039dbb1fff717b22da8c10eba5139deeaf44",
     "pluginHash": "43ea695110fb4516de7e16e0c44f039dbb1fff717b22da8c10eba5139deeaf44",
-    "pluginStars": "3"
+    "pluginStars": "4"
   },
   {
     "pluginName": "Cargo Manifest",
@@ -481,6 +481,6 @@
     "pluginIcon": "https://gitlab.com/inutt/edmc-docking-denied-reason/-/raw/main/images/icon.png",
     "pluginVT": "",
     "pluginHash": "0173ea6e64febb3061688c08e75c2b7e709bcaa74688d239d31580b447023c5d",
-    "pluginStars": "0"
+    "pluginStars": "1"
   }
 ]
