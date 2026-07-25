@@ -254,6 +254,31 @@
     "pluginStars": "0"
   },
   {
+    "pluginName": "EDMC-SpanshTools",
+    "pluginVer": "1.1.2",
+    "pluginZip": "https://github.com/wuuthradd/EDMC-SpanshTools/releases/download/v1.1.2/EDMC-SpanshTools-v1.1.2.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "wuuthradd"
+    ],
+    "pluginMainLink": "https://github.com/wuuthradd/EDMC-SpanshTools",
+    "pluginLastUpdate": "2026-07-16",
+    "pluginDirName": "EDMC-SpanshTools",
+    "pluginCategory": [
+      "Navigation",
+      "Exploration"
+    ],
+    "pluginDesc": "Plugin that brings multiple Spansh route and search tools into EDMC, including routing, route viewing, import/export and overlays.",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginRequirements": [],
+    "pluginLicense": "GPL-3.0-or-later",
+    "pluginIcon": "",
+    "pluginVT": "https://www.virustotal.com/gui/url/9b61261cbc4375b877fe29c32151cdace9c9a7bb715359539bfa63f508e769a4",
+    "pluginHash": "11dc77b5cd3b0d121b5fedf8cc52183bb0e48cf96d63e774af56793aa720b15c",
+    "pluginStars": "2"
+  },
+  {
     "pluginName": "EDMCHotkeys",
     "pluginVer": "0.5.0",
     "pluginZip": "https://github.com/SweetJonnySauce/EDMCHotkeys/releases/download/v0.5.0/EDMCHotkeys-windows-v0.5.0.zip",
