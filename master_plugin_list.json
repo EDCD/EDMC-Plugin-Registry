@@ -76,7 +76,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "dfc8d8233ba9f3d4357757e6d3f4a3fd52d1169cdb25a168af0ffe2e45dfa1dd",
-    "pluginStars": "41"
+    "pluginStars": "43"
   },
   {
     "pluginName": "EDMC-LogEventMiner",
@@ -126,7 +126,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/url/883913debe789d3a942cf0d204899236b9cb74e59bdd825834a4e045c64cbfd5?nocache=1",
     "pluginHash": "",
-    "pluginStars": "22"
+    "pluginStars": "24"
   },
   {
     "pluginName": "EDMC-NavRoute",
@@ -178,7 +178,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/f77c366ea4d4170d7c39939b2632e5cb94dbbf516c0eac8ef7041a86a88169ba",
     "pluginHash": "f77c366ea4d4170d7c39939b2632e5cb94dbbf516c0eac8ef7041a86a88169ba",
-    "pluginStars": "19"
+    "pluginStars": "22"
   },
   {
     "pluginName": "EDMC-Pioneer",
@@ -332,7 +332,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
     "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.9.0/vt-transparency.html",
     "pluginHash": "",
-    "pluginStars": "50"
+    "pluginStars": "52"
   },
   {
     "pluginName": "GalaxyGPS",
@@ -588,6 +588,6 @@
     "pluginRequirements": [],
     "pluginIcon": "https://gitlab.com/inutt/edmc-docking-denied-reason/-/raw/main/images/icon.png",
     "pluginVT": "",
-    "pluginStars": "0"
+    "pluginStars": "1"
   }
 ]
