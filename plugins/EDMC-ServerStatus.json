@@ -1,0 +1,20 @@
+{
+  "pluginName": "EDMC-ServerStatus",
+  "pluginVer": "0.1.1",
+  "autoUpdateEnabled": false,
+  "autoInstallEnabled": false,
+  "pluginAuthors": [
+    "Neurosis404"
+  ],
+  "pluginMainLink": "https://github.com/Neurosis404/EDMC-ServerStatus",
+  "pluginLastUpdate": "2026-08-13",
+  "pluginDirName": "EDMC_ServerStatus",
+  "pluginCategory": [
+    "Utility"
+  ],
+  "pluginDesc": "Monitors Frontier's Live CAPI and displays Online, Maintenance, Degraded, Unreachable, or Unknown status directly in EDMarketConnector.",
+  "pluginLastTestedEDMC": "6.1.2",
+  "pluginLicense": "MIT",
+  "pluginHash": "10eed5d46cfb24a1206730c3a11887fe4f21d30059a3eb9db3d5072daaba10ef",
+  "pluginZip": "https://github.com/Neurosis404/EDMC-ServerStatus/releases/download/0.1.1/EDMC_ServerStatus-0.1.1.zip"
+}
