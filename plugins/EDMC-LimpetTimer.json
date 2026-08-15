@@ -1,0 +1,18 @@
+{
+  "pluginName": "EDMC-LimpetTimer",
+  "pluginVer": "0.2.0",
+  "autoUpdateEnabled": false,
+  "autoInstallEnabled": false,
+  "pluginAuthors": [
+    "Neurosis404"
+  ],
+  "pluginMainLink": "https://github.com/Neurosis404/EDMC-LimpetTimer",
+  "pluginLastUpdate": "2026-08-07",
+  "pluginDirName": "EDMC_LimpetTimer",
+  "pluginCategory": [
+    "Utility"
+  ],
+  "pluginDesc": "Tracks Collector Limpet launches and estimates active limpets, controller capacity, and remaining lifetime.",
+  "pluginLastTestedEDMC": "6.1.2",
+  "pluginLicense": "MIT"
+}
