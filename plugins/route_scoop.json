@@ -18,6 +18,6 @@
     "pluginHash": "76a328fed5d69bac009629aef6c957addac2353387b42f0b3581250c816e17c2",
     "pluginZip": "https://gitlab.com/inutt/edmc-jump-fuel-plugin/-/releases/v7.0.1/downloads/route_scoop.zip",
     "pluginRequirements": [],
-    "pluginIcon": "https://gitlab.com/inutt/edmc-docking-denied-reason/-/raw/main/images/icon.png",
+    "pluginIcon": "https://gitlab.com/inutt/edmc-jump-fuel-plugin/-/raw/main/images/icon.png",
     "pluginVT": ""
 }
