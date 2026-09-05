@@ -1,22 +1,22 @@
 {
     "pluginName": "Route Scoop",
-    "pluginVer": "6.0.0",
+    "pluginVer": "7.0.1",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
         "Cmdr Inutt"
     ],
     "pluginMainLink": "https://gitlab.com/inutt/edmc-jump-fuel-plugin",
-    "pluginLastUpdate": "2026-07-14",
+    "pluginLastUpdate": "2026-09-05",
     "pluginDirName": "route_scoop",
     "pluginCategory": [
         "Navigation"
     ],
     "pluginDesc": "Visualise where you can scoop fuel along your plotted route.",
-    "pluginLastTestedEDMC": "6.2.0-alpha0+4eecc87",
+    "pluginLastTestedEDMC": "6.2.0-alpha0+6d03474",
     "pluginLicense": "GPL-3.0-or-later",
-    "pluginHash": "1e7914d0323c063d02c2b040557bfa6b9dbacb7b9fbbd0f4bc8f80cb0a102fe1",
-    "pluginZip": "https://gitlab.com/inutt/edmc-jump-fuel-plugin/-/releases/v6.0.0/downloads/route_scoop.zip",
+    "pluginHash": "76a328fed5d69bac009629aef6c957addac2353387b42f0b3581250c816e17c2",
+    "pluginZip": "https://gitlab.com/inutt/edmc-jump-fuel-plugin/-/releases/v7.0.1/downloads/route_scoop.zip",
     "pluginRequirements": [],
     "pluginIcon": "https://gitlab.com/inutt/edmc-docking-denied-reason/-/raw/main/images/icon.png",
     "pluginVT": ""
