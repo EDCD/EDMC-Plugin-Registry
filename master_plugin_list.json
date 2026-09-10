@@ -76,7 +76,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "dfc8d8233ba9f3d4357757e6d3f4a3fd52d1169cdb25a168af0ffe2e45dfa1dd",
-    "pluginStars": "45"
+    "pluginStars": "46"
   },
   {
     "pluginName": "EDMC-LimpetTimer",
@@ -145,7 +145,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/url/883913debe789d3a942cf0d204899236b9cb74e59bdd825834a4e045c64cbfd5?nocache=1",
     "pluginHash": "",
-    "pluginStars": "24"
+    "pluginStars": "26"
   },
   {
     "pluginName": "EDMC-NavRoute",
@@ -224,7 +224,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "f6719ccb780247fc5a721eb56b251b81be93df4659d0215c81895574f24cff32",
-    "pluginStars": "26"
+    "pluginStars": "27"
   },
   {
     "pluginName": "EDMC-PowerPlayProgress",
@@ -372,7 +372,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
     "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.9.0/vt-transparency.html",
     "pluginHash": "",
-    "pluginStars": "56"
+    "pluginStars": "57"
   },
   {
     "pluginName": "GalaxyGPS",
@@ -426,7 +426,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "77ea095c04b982ac367e333b8c3baef20d07e2d0814600509d826838bab59ba6",
-    "pluginStars": "2"
+    "pluginStars": "3"
   },
   {
     "pluginName": "ED Recon (EDR)",
