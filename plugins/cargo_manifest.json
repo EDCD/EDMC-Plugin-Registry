@@ -1,6 +1,6 @@
 {
     "pluginName": "Cargo Manifest",
-    "pluginVer": "2.2.1",
+    "pluginVer": "2.2.2",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
@@ -15,8 +15,8 @@
     "pluginDesc": "Shows a list of what's in your cargo hold along with its approximate value.",
     "pluginLastTestedEDMC": "6.2.0-alpha0+6d03474",
     "pluginLicense": "GPL-3.0-or-later",
-    "pluginHash": "80d6c49606872357598ef3c8e7ad63e9b0418da8dabd7d5261d309b62d1b96f2",
-    "pluginZip": "https://gitlab.com/inutt/edmc-cargo-manifest/-/releases/v2.2.1/downloads/cargo_manifest.zip",
+    "pluginHash": "a2b45ce231e33a471219e6fd1ad6027a393b2640afc05c576be2d37dce006eb1",
+    "pluginZip": "https://gitlab.com/inutt/edmc-cargo-manifest/-/releases/v2.2.2/downloads/cargo_manifest.zip",
     "pluginRequirements": [],
     "pluginIcon": "https://gitlab.com/inutt/edmc-cargo-manifest/-/raw/main/img/icon.png",
     "pluginVT": ""
