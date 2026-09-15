@@ -1,0 +1,18 @@
+  {
+    "pluginName": "EDMC-ExplorerLite",
+    "pluginVer": "1.0.0",
+    "pluginZip": "https://github.com/dwomble/EDMC-ExplorerLite/releases/download/v1.0.0/EDMC-ExplorerLite.zip",
+    "autoUpdateEnabled": true,
+    "autoInstallEnabled": false,
+    "pluginAuthors": ["dwomble"],
+    "pluginMainLink": "https://github.com/dwomble/EDMC-ExplorerLite",
+    "pluginLastUpdate": "2026-08-24",
+    "pluginDirName": "EDMC-ExplorerLite",
+    "pluginCategory": ["Exploration", "Cartography", "Exobiology"],
+    "pluginDesc": "A lightweight, minimalist, combined cartography and exobiology tracker.",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginRequirements": [],
+    "pluginLicense": "MIT License",
+    "pluginVT": "https://www.virustotal.com/gui/file/a47977e420ba5b1924635b4aa8d6283175a9757115613863947d4d81fe68cb0a",
+    "pluginHash": "a47977e420ba5b1924635b4aa8d6283175a9757115613863947d4d81fe68cb0a"
+  }
