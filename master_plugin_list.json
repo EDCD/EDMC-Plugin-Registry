@@ -48,7 +48,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/aussig/BGS-Tally/refs/heads/develop/assets/logo_bgstally_100x67.png",
     "pluginVT": "https://www.virustotal.com/gui/url/89870149fb325d70c619888b902c8fcffce3db4450608d30028f18b9e3ea8dcd",
     "pluginHash": "2976378ab99165396f13983b1eb5789ac1bfa7a71096f4096bd0a097a17e00c4",
-    "pluginStars": "60"
+    "pluginStars": "62"
   },
   {
     "pluginName": "EDMC-BioScan",
@@ -76,7 +76,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "dfc8d8233ba9f3d4357757e6d3f4a3fd52d1169cdb25a168af0ffe2e45dfa1dd",
-    "pluginStars": "46"
+    "pluginStars": "47"
   },
   {
     "pluginName": "EDMC-ExplorerLite",
@@ -101,7 +101,7 @@
     "pluginLicense": "MIT License",
     "pluginVT": "https://www.virustotal.com/gui/file/a47977e420ba5b1924635b4aa8d6283175a9757115613863947d4d81fe68cb0a",
     "pluginHash": "a47977e420ba5b1924635b4aa8d6283175a9757115613863947d4d81fe68cb0a",
-    "pluginStars": "3"
+    "pluginStars": "4"
   },
   {
     "pluginName": "EDMC-LimpetTimer",
@@ -120,7 +120,7 @@
     "pluginDesc": "Tracks Collector Limpet launches and estimates active limpets, controller capacity, and remaining lifetime.",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginLicense": "MIT",
-    "pluginStars": "0"
+    "pluginStars": "1"
   },
   {
     "pluginName": "EDMC-LogEventMiner",
@@ -222,7 +222,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/dwomble/EDMC-NeutronDancer/master/assets/icon.png",
     "pluginVT": "https://www.virustotal.com/gui/file/502261ce52c10d579e9a91af6cc3306c3c9c2caf8e9bcec6070b08fce221a086",
     "pluginHash": "502261ce52c10d579e9a91af6cc3306c3c9c2caf8e9bcec6070b08fce221a086",
-    "pluginStars": "23"
+    "pluginStars": "24"
   },
   {
     "pluginName": "EDMC-Pioneer",
@@ -249,7 +249,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "f6719ccb780247fc5a721eb56b251b81be93df4659d0215c81895574f24cff32",
-    "pluginStars": "27"
+    "pluginStars": "28"
   },
   {
     "pluginName": "EDMC-PowerPlayProgress",
@@ -316,7 +316,7 @@
     "pluginLicense": "MIT",
     "pluginHash": "10eed5d46cfb24a1206730c3a11887fe4f21d30059a3eb9db3d5072daaba10ef",
     "pluginZip": "https://github.com/Neurosis404/EDMC-ServerStatus/releases/download/0.1.1/EDMC_ServerStatus-0.1.1.zip",
-    "pluginStars": "0"
+    "pluginStars": "1"
   },
   {
     "pluginName": "EDMC-SpanshTools",
@@ -341,7 +341,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/url/9b61261cbc4375b877fe29c32151cdace9c9a7bb715359539bfa63f508e769a4",
     "pluginHash": "11dc77b5cd3b0d121b5fedf8cc52183bb0e48cf96d63e774af56793aa720b15c",
-    "pluginStars": "3"
+    "pluginStars": "4"
   },
   {
     "pluginName": "EDMCHotkeys",
@@ -532,7 +532,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "c43a11a9b56e534c419c2e799ae503deb17021d33aa288677b2d47fcd7ddd002",
-    "pluginStars": "10"
+    "pluginStars": "11"
   },
   {
     "pluginName": "LandingPad",
@@ -581,7 +581,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "6c4ec8bc7f2c6d24dc0947200c4598af525e59c2b97b2a5b6d179d3cb2b31ba0",
-    "pluginStars": "4"
+    "pluginStars": "6"
   },
   {
     "pluginName": "Cargo Manifest",
