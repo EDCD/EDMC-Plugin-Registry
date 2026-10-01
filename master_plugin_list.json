@@ -101,7 +101,7 @@
     "pluginLicense": "MIT License",
     "pluginVT": "https://www.virustotal.com/gui/file/a47977e420ba5b1924635b4aa8d6283175a9757115613863947d4d81fe68cb0a",
     "pluginHash": "a47977e420ba5b1924635b4aa8d6283175a9757115613863947d4d81fe68cb0a",
-    "pluginStars": "4"
+    "pluginStars": "6"
   },
   {
     "pluginName": "EDMC-LimpetTimer",
@@ -146,7 +146,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/url/a86d46dc81d50619493f3e2a246a0c3ba3aa676a55b3e6c03a873df317f6d3a1",
     "pluginHash": "",
-    "pluginStars": "1"
+    "pluginStars": "2"
   },
   {
     "pluginName": "EDMC-Mining-Analytics",
@@ -222,7 +222,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/dwomble/EDMC-NeutronDancer/master/assets/icon.png",
     "pluginVT": "https://www.virustotal.com/gui/file/502261ce52c10d579e9a91af6cc3306c3c9c2caf8e9bcec6070b08fce221a086",
     "pluginHash": "502261ce52c10d579e9a91af6cc3306c3c9c2caf8e9bcec6070b08fce221a086",
-    "pluginStars": "24"
+    "pluginStars": "26"
   },
   {
     "pluginName": "EDMC-Pioneer",
@@ -423,7 +423,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "47cf74f3f28f191ef54baf4134ac74b964bd177ada4722e4ad1af51fa0196900",
-    "pluginStars": "9"
+    "pluginStars": "10"
   },
   {
     "pluginName": "EDPlanetNavigator",
