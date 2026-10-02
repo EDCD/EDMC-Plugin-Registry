@@ -1,15 +1,15 @@
 [
   {
     "pluginName": "Architect Tracker",
-    "pluginVer": "1.7",
-    "pluginZip": "https://github.com/kfpopeye/EliteDangerous/archive/refs/tags/V1.7.zip",
+    "pluginVer": "1.8",
+    "pluginZip": "https://github.com/kfpopeye/EliteDangerous/archive/refs/tags/v1.8.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "kf popeye"
     ],
     "pluginMainLink": "https://github.com/kfpopeye/EliteDangerous",
-    "pluginLastUpdate": "2026-09-08",
+    "pluginLastUpdate": "2026-09-27",
     "pluginDirName": "ArchitectTracker",
     "pluginCategory": [
       "Colonisation"
@@ -101,7 +101,7 @@
     "pluginLicense": "MIT License",
     "pluginVT": "https://www.virustotal.com/gui/file/a47977e420ba5b1924635b4aa8d6283175a9757115613863947d4d81fe68cb0a",
     "pluginHash": "a47977e420ba5b1924635b4aa8d6283175a9757115613863947d4d81fe68cb0a",
-    "pluginStars": "6"
+    "pluginStars": "7"
   },
   {
     "pluginName": "EDMC-LimpetTimer",
@@ -633,14 +633,14 @@
   },
   {
     "pluginName": "Route Scoop",
-    "pluginVer": "7.0.1",
+    "pluginVer": "7.2.1",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "Cmdr Inutt"
     ],
     "pluginMainLink": "https://gitlab.com/inutt/edmc-jump-fuel-plugin",
-    "pluginLastUpdate": "2026-09-05",
+    "pluginLastUpdate": "2026-10-02",
     "pluginDirName": "route_scoop",
     "pluginCategory": [
       "Navigation"
@@ -648,8 +648,8 @@
     "pluginDesc": "Visualise where you can scoop fuel along your plotted route.",
     "pluginLastTestedEDMC": "6.2.0-alpha0+6d03474",
     "pluginLicense": "GPL-3.0-or-later",
-    "pluginHash": "76a328fed5d69bac009629aef6c957addac2353387b42f0b3581250c816e17c2",
-    "pluginZip": "https://gitlab.com/inutt/edmc-jump-fuel-plugin/-/releases/v7.0.1/downloads/route_scoop.zip",
+    "pluginHash": "12eac1cf66ec453977722adcb5492be290a8e0695f464c627275b304fa950142",
+    "pluginZip": "https://gitlab.com/inutt/edmc-jump-fuel-plugin/-/releases/v7.2.1/downloads/route_scoop.zip",
     "pluginRequirements": [],
     "pluginIcon": "https://gitlab.com/inutt/edmc-jump-fuel-plugin/-/raw/main/images/icon.png",
     "pluginVT": "",
