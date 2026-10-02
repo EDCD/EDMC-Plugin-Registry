@@ -21,7 +21,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "",
-    "pluginStars": "7"
+    "pluginStars": ""
   },
   {
     "pluginName": "BGS-Tally",
@@ -48,7 +48,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/aussig/BGS-Tally/refs/heads/develop/assets/logo_bgstally_100x67.png",
     "pluginVT": "https://www.virustotal.com/gui/url/89870149fb325d70c619888b902c8fcffce3db4450608d30028f18b9e3ea8dcd",
     "pluginHash": "2976378ab99165396f13983b1eb5789ac1bfa7a71096f4096bd0a097a17e00c4",
-    "pluginStars": "62"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-BioScan",
@@ -76,7 +76,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "dfc8d8233ba9f3d4357757e6d3f4a3fd52d1169cdb25a168af0ffe2e45dfa1dd",
-    "pluginStars": "47"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-ExplorerLite",
@@ -101,7 +101,7 @@
     "pluginLicense": "MIT License",
     "pluginVT": "https://www.virustotal.com/gui/file/a47977e420ba5b1924635b4aa8d6283175a9757115613863947d4d81fe68cb0a",
     "pluginHash": "a47977e420ba5b1924635b4aa8d6283175a9757115613863947d4d81fe68cb0a",
-    "pluginStars": "7"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-LimpetTimer",
@@ -120,7 +120,7 @@
     "pluginDesc": "Tracks Collector Limpet launches and estimates active limpets, controller capacity, and remaining lifetime.",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginLicense": "MIT",
-    "pluginStars": "1"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-LogEventMiner",
@@ -146,7 +146,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/url/a86d46dc81d50619493f3e2a246a0c3ba3aa676a55b3e6c03a873df317f6d3a1",
     "pluginHash": "",
-    "pluginStars": "2"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-Mining-Analytics",
@@ -170,7 +170,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/url/883913debe789d3a942cf0d204899236b9cb74e59bdd825834a4e045c64cbfd5?nocache=1",
     "pluginHash": "",
-    "pluginStars": "26"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-NavRoute",
@@ -197,7 +197,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "fe0843c4546c357150eb11846809869bd965a1af5e3e3112a17792b88d6197c7",
-    "pluginStars": "4"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-NeutronDancer",
@@ -222,7 +222,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/dwomble/EDMC-NeutronDancer/master/assets/icon.png",
     "pluginVT": "https://www.virustotal.com/gui/file/502261ce52c10d579e9a91af6cc3306c3c9c2caf8e9bcec6070b08fce221a086",
     "pluginHash": "502261ce52c10d579e9a91af6cc3306c3c9c2caf8e9bcec6070b08fce221a086",
-    "pluginStars": "26"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-Pioneer",
@@ -249,7 +249,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "f6719ccb780247fc5a721eb56b251b81be93df4659d0215c81895574f24cff32",
-    "pluginStars": "28"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-PowerPlayProgress",
@@ -274,7 +274,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "1f15faa47a7c8521fffd24058cc583d57cbd054a43f7971d747255f9a2552e4c",
-    "pluginStars": "17"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC Screenshot Linux",
@@ -295,7 +295,7 @@
     "pluginLicense": "MIT",
     "pluginHash": "bf838ceb96486aad0f7fa3917219f08bc71479a89f00895854b290e900988744",
     "pluginZip": "https://github.com/adieball/EDMC-Screenshot-Linux/releases/download/0.1.4/EDMC-Screenshot-Linux.zip",
-    "pluginStars": "0"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-ServerStatus",
@@ -316,7 +316,7 @@
     "pluginLicense": "MIT",
     "pluginHash": "10eed5d46cfb24a1206730c3a11887fe4f21d30059a3eb9db3d5072daaba10ef",
     "pluginZip": "https://github.com/Neurosis404/EDMC-ServerStatus/releases/download/0.1.1/EDMC_ServerStatus-0.1.1.zip",
-    "pluginStars": "1"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-SpanshTools",
@@ -341,7 +341,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/url/9b61261cbc4375b877fe29c32151cdace9c9a7bb715359539bfa63f508e769a4",
     "pluginHash": "11dc77b5cd3b0d121b5fedf8cc52183bb0e48cf96d63e774af56793aa720b15c",
-    "pluginStars": "4"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMCHotkeys",
@@ -368,7 +368,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file-analysis/MThlNTY5YTI4N2Y3OGNhNDE3ZjIyZGFlNDE0MTFkZmY6MTc3MzEwODQ3Mg==",
     "pluginHash": "",
-    "pluginStars": "3"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMCModernOverlay",
@@ -397,7 +397,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
     "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.9.0/vt-transparency.html",
     "pluginHash": "",
-    "pluginStars": "57"
+    "pluginStars": ""
   },
   {
     "pluginName": "GalaxyGPS",
@@ -423,7 +423,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "47cf74f3f28f191ef54baf4134ac74b964bd177ada4722e4ad1af51fa0196900",
-    "pluginStars": "10"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDPlanetNavigator",
@@ -451,7 +451,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "77ea095c04b982ac367e333b8c3baef20d07e2d0814600509d826838bab59ba6",
-    "pluginStars": "3"
+    "pluginStars": ""
   },
   {
     "pluginName": "ED Recon (EDR)",
@@ -505,7 +505,7 @@
     "pluginHash": "6bf7745da89b095ad3c0a755a74e5563d41b001d59c75e0cccd785a9fdecf54e",
     "pluginIcon": "https://edspecbot.com/logo.png",
     "pluginVT": "",
-    "pluginStars": "0"
+    "pluginStars": ""
   },
   {
     "pluginName": "ExploData",
@@ -532,7 +532,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "c43a11a9b56e534c419c2e799ae503deb17021d33aa288677b2d47fcd7ddd002",
-    "pluginStars": "11"
+    "pluginStars": ""
   },
   {
     "pluginName": "LandingPad",
@@ -557,7 +557,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
     "pluginHash": "4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
-    "pluginStars": "49"
+    "pluginStars": ""
   },
   {
     "pluginName": "UpdateTD",
@@ -581,18 +581,18 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "6c4ec8bc7f2c6d24dc0947200c4598af525e59c2b97b2a5b6d179d3cb2b31ba0",
-    "pluginStars": "6"
+    "pluginStars": ""
   },
   {
     "pluginName": "Cargo Manifest",
-    "pluginVer": "2.2.2",
+    "pluginVer": "2.2.3",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "Cmdr Inutt"
     ],
     "pluginMainLink": "https://gitlab.com/inutt/edmc-cargo-manifest",
-    "pluginLastUpdate": "2026-09-13",
+    "pluginLastUpdate": "2026-09-23",
     "pluginDirName": "cargo_manifest",
     "pluginCategory": [
       "Trading"
@@ -600,8 +600,8 @@
     "pluginDesc": "Shows a list of what's in your cargo hold along with its approximate value.",
     "pluginLastTestedEDMC": "6.2.0-alpha0+6d03474",
     "pluginLicense": "GPL-3.0-or-later",
-    "pluginHash": "a2b45ce231e33a471219e6fd1ad6027a393b2640afc05c576be2d37dce006eb1",
-    "pluginZip": "https://gitlab.com/inutt/edmc-cargo-manifest/-/releases/v2.2.2/downloads/cargo_manifest.zip",
+    "pluginHash": "f06f90c7ea8859bf29b4d6e0a87011edc8e72da76969029b6005c66a5b3eb8c2",
+    "pluginZip": "https://gitlab.com/inutt/edmc-cargo-manifest/-/releases/v2.2.3/downloads/cargo_manifest.zip",
     "pluginRequirements": [],
     "pluginIcon": "https://gitlab.com/inutt/edmc-cargo-manifest/-/raw/main/img/icon.png",
     "pluginVT": "",
