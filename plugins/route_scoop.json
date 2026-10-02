@@ -1,13 +1,13 @@
 {
     "pluginName": "Route Scoop",
-    "pluginVer": "7.0.1",
+    "pluginVer": "7.2.0",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
         "Cmdr Inutt"
     ],
     "pluginMainLink": "https://gitlab.com/inutt/edmc-jump-fuel-plugin",
-    "pluginLastUpdate": "2026-09-05",
+    "pluginLastUpdate": "2026-10-02",
     "pluginDirName": "route_scoop",
     "pluginCategory": [
         "Navigation"
@@ -15,8 +15,8 @@
     "pluginDesc": "Visualise where you can scoop fuel along your plotted route.",
     "pluginLastTestedEDMC": "6.2.0-alpha0+6d03474",
     "pluginLicense": "GPL-3.0-or-later",
-    "pluginHash": "76a328fed5d69bac009629aef6c957addac2353387b42f0b3581250c816e17c2",
-    "pluginZip": "https://gitlab.com/inutt/edmc-jump-fuel-plugin/-/releases/v7.0.1/downloads/route_scoop.zip",
+    "pluginHash": "0e895db11159d3f4c6ce3ed9fd858a785657097f3c2701fb5e350054cd5b54af",
+    "pluginZip": "https://gitlab.com/inutt/edmc-jump-fuel-plugin/-/releases/v7.2.0/downloads/route_scoop.zip",
     "pluginRequirements": [],
     "pluginIcon": "https://gitlab.com/inutt/edmc-jump-fuel-plugin/-/raw/main/images/icon.png",
     "pluginVT": ""
