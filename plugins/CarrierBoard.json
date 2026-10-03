@@ -3,15 +3,11 @@
     "pluginVer": "1.0.1",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
-    "pluginAuthors": [
-        "G4MERL1FE"
-    ],
+    "pluginAuthors": ["G4MERL1FE"],
     "pluginMainLink": "https://github.com/G4MERL1FE/EDMC-CarrierBoard",
     "pluginLastUpdate": "2026-10-03",
     "pluginDirName": "CarrierBoard",
-    "pluginCategory": [
-        "Trading"
-    ],
+    "pluginCategory": ["Trading"],
     "pluginDesc": "View, post, and complete Fleet Carrier trade jobs from a shared community trade board, directly inside EDMC.",
     "pluginLastTestedEDMC": "6.1.2+b7758a6",
     "pluginLicense": "MIT",
