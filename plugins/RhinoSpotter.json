@@ -10,7 +10,7 @@
     "pluginDirName": "RhinoSpotter",
     "pluginCategory": ["Exploration", "Utility"],
     "pluginDesc": "Surface mining: which landable bodies in this system are worth prospecting, a minimap of the ground driven in the SRV with your bookmarks on it, and an arrow over the game that guides you back to them.",
-    "pluginLastTestedEDMC": "6.1.2",
+    "pluginLastTestedEDMC": "6.4.6",
     "pluginRequirements": [],
     "pluginLicense": "GPL-3.0-or-later",
     "pluginIcon": "",
