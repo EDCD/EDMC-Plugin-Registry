@@ -1,0 +1,19 @@
+{
+  "pluginName": "Salty",
+  "pluginVer": "1.0.0",
+  "pluginZip": "",
+  "autoUpdateEnabled": false,
+  "autoInstallEnabled": false,
+  "pluginAuthors": ["Duceowen"],
+  "pluginMainLink": "https://github.com/Duceowen/Salty",
+  "pluginLastUpdate": "2026-10-15",
+  "pluginDirName": "Salty",
+  "pluginCategory": ["Social", "Utility"],
+  "pluginDesc": "Chat log for Elite Dangerous: records every sent and received message, filters by channel, shows them in the EDMC main window or a larger pop-out window, and can raise on-screen notifications for incoming messages via EDMCModernOverlay. A port of the Communicator plugin from Elite Observatory Core.",
+  "pluginLastTestedEDMC": "6.1.2",
+  "pluginRequirements": ["EDMCModernOverlay for optional on-screen notifications"],
+  "pluginLicense": "MIT",
+  "pluginIcon": "",
+  "pluginVT": "",
+  "pluginHash": ""
+}
