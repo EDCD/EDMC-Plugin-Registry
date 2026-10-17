@@ -1,0 +1,19 @@
+{
+    "pluginName": "EDPlanetNavigator",
+    "pluginVer": "1.0.0",
+    "pluginZip": "https://github.com/mcjohnso/EDPlanetNavigator/releases/download/v1.0.0/EDPlanetNavigator-v1.0.0.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": ["mcjohnso"],
+    "pluginMainLink": "https://github.com/mcjohnso/EDPlanetNavigator",
+    "pluginLastUpdate": "2026-06-13",
+    "pluginDirName": "EDPlanetNavigator",
+    "pluginCategory": ["Navigation", "Exploration", "Utility"],
+    "pluginDesc": "Overlay with turn-by-turn heading, bearing, and distance for flying to planetary coordinates.",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginRequirements": ["EDMCOverlay or EDMCModernOverlay (optional, for the in-game overlay)"],
+    "pluginLicense": "MIT",
+    "pluginIcon": "",
+    "pluginVT": "",
+    "pluginHash": "77ea095c04b982ac367e333b8c3baef20d07e2d0814600509d826838bab59ba6"
+}

@@ -1,19 +1,19 @@
 {
   "pluginName": "UpdateTD",
-  "pluginVer": "1.0.3",
-  "pluginZip": "https://github.com/bgol/UpdateTD/releases/download/v1.0.3/UpdateTD_v1.0.3.zip",
+  "pluginVer": "1.1.0",
+  "pluginZip": "https://github.com/bgol/UpdateTD/releases/download/v1.1.0/UpdateTD_v1.1.0.zip",
   "autoUpdateEnabled": false,
   "autoInstallEnabled": false,
   "pluginAuthors": ["Bernd Gollesch"],
   "pluginMainLink": "https://github.com/bgol/UpdateTD",
-  "pluginLastUpdate": "2026-01-12",
+  "pluginLastUpdate": "2026-06-23",
   "pluginDirName": "UpdateTD",
   "pluginCategory": ["Trading"],
   "pluginDesc": "It updates the database of TradeDangerous directly while playing the game.",
-  "pluginLastTestedEDMC": "6.0.2",
+  "pluginLastTestedEDMC": "6.1.2",
   "pluginRequirements": [],
   "pluginLicense": "MIT",
   "pluginIcon": "",
-  "pluginVT": "https://www.virustotal.com/gui/file/43ea695110fb4516de7e16e0c44f039dbb1fff717b22da8c10eba5139deeaf44",
-  "pluginHash": "43ea695110fb4516de7e16e0c44f039dbb1fff717b22da8c10eba5139deeaf44"
+  "pluginVT": "",
+  "pluginHash": "6c4ec8bc7f2c6d24dc0947200c4598af525e59c2b97b2a5b6d179d3cb2b31ba0"
 }

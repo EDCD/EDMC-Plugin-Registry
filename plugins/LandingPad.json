@@ -1,19 +1,19 @@
 {
   "pluginName": "LandingPad",
-  "pluginVer": "2.5.7",
-  "pluginZip": "https://github.com/bgol/LandingPad/releases/download/v2.5.7/LandingPad_v2.5.7.zip",
+  "pluginVer": "2.6.0",
+  "pluginZip": "https://github.com/bgol/LandingPad/releases/download/v2.6.0/LandingPad_v2.6.0.zip",
   "autoUpdateEnabled": false,
   "autoInstallEnabled": false,
   "pluginAuthors": ["Bernd Gollesch"],
   "pluginMainLink": "https://github.com/bgol/LandingPad",
-  "pluginLastUpdate": "2026-01-04",
+  "pluginLastUpdate": "2026-10-11",
   "pluginDirName": "LandingPad",
   "pluginCategory": ["Utility", "Navigation"],
   "pluginDesc": "It helps people to find their assigned landingpad position in starports or fleetcarriers.",
-  "pluginLastTestedEDMC": "6.0.2",
+  "pluginLastTestedEDMC": "6.1.2",
   "pluginRequirements": [],
   "pluginLicense": "GPL-2.0-or-later",
   "pluginIcon": "",
-  "pluginVT": "https://www.virustotal.com/gui/file/4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
-  "pluginHash": "4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1"
+  "pluginVT": "",
+  "pluginHash": "7d2051bd7f64cb62d7f50bb9d2f18e6f8f1669fca3664aca34386dd2be61861b"
 }
