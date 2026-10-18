@@ -1,0 +1,19 @@
+{
+  "pluginName": "EDMC-Engineering",
+  "pluginVer": "0.6.9",
+  "pluginZip": "https://github.com/majorxp00/EDMC-Engineering/releases/download/v0.6.9/EDMC-Engineering-0.6.9.zip",
+  "autoUpdateEnabled": false,
+  "autoInstallEnabled": false,
+  "pluginAuthors": ["majorxp00"],
+  "pluginMainLink": "https://github.com/majorxp00/EDMC-Engineering",
+  "pluginLastUpdate": "2026-10-09",
+  "pluginDirName": "EDMC-Engineering",
+  "pluginCategory": ["Engineering"],
+  "pluginDesc": "Sends the journal events an engineering planner needs (materials, engineer progress, ships, location, plotted route) to your account on ed.golegend.com as you play, so your engineering plan stays current, and shows a destination picked on the site with it put on the clipboard for the galaxy map.",
+  "pluginLastTestedEDMC": "6.1.2",
+  "pluginRequirements": ["An account on https://ed.golegend.com and a plugin key from its Account page"],
+  "pluginLicense": "MIT",
+  "pluginIcon": "",
+  "pluginVT": "",
+  "pluginHash": "c7f911164ad233b54a79add935816e6baccf500389c61f81b37b9fdcb95339d1"
+}
