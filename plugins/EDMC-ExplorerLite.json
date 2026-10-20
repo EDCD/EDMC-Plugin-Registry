@@ -8,8 +8,8 @@
     "pluginMainLink": "https://github.com/dwomble/EDMC-ExplorerLite",
     "pluginLastUpdate": "2026-10-19",
     "pluginDirName": "EDMC-ExplorerLite",
-    "pluginCategory": ["Exploration", "Cartography", "Exobiology", "Surface Mining"],
-    "pluginDesc": "A lightweight, self-contained exploration and exobiology assistant.",
+    "pluginCategory": ["Exploration", "Cartography", "Exobiology", "Other"],
+    "pluginDesc": "A lightweight, self-contained exploration assistant for cartography, exobiology and surface mining.",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginIcon": "https://github.com/dwomble/EDMC-ExplorerLite/blob/main/assets/logo_color.png"
     "pluginRequirements": [],
