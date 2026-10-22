@@ -63,6 +63,25 @@ We have a template for PRs. Please ensure your PR follows the template to ensure
 
 If you have multiple plugins to update, please open a single PR for each plugin.
 
+## Automated Checks
+Every PR is checked automatically and the results are posted as a comment. The check fails if:
+- The PR changes anything other than a single file under [plugins](/plugins/).
+- Required fields are missing or have the wrong type, `pluginVer` is not `Major.Minor.Patch`, or `pluginLastUpdate` is not `YYYY-MM-DD`.
+- `pluginMainLink` does not resolve.
+- `pluginZip` cannot be downloaded, is not a valid zip, or its SHA256 does not match `pluginHash`.
+- VirusTotal reports the zip as malicious, or `pluginVT` links to a different file than `pluginHash`.
+
+Upload your release zip to [VirusTotal](https://www.virustotal.com) before opening the PR. Your `pluginVT` link should be `https://www.virustotal.com/gui/file/<pluginHash>`.
+
+An update to an existing listing may be merged automatically, without waiting for a reviewer, when:
+- All checks pass with no blocking warnings, and VirusTotal reports no malicious or suspicious detections.
+- `pluginVer` is higher than the listed version, and `pluginZip` and `pluginHash` are set.
+- `pluginName`, `pluginDirName`, `pluginMainLink`, `pluginAuthors` and `pluginLicense` are unchanged.
+- `pluginZip` is hosted by the same GitHub/GitLab owner as `pluginMainLink`.
+- The PR is opened by the owner of the `pluginMainLink` repository, or by a GitHub user named in `pluginAuthors`.
+
+New listings, and updates that don't meet these conditions, are reviewed by a maintainer as before.
+
 # Review Team
 The review team are people who test plugins, review their code, and ensure that all listed plugins are working well with users' installs of EDMC. We have a small team of users who can approve updates to plugins or list new plugins, but we welcome contributions and feedback from everyone! 
 

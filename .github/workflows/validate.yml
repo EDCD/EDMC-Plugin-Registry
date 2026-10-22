@@ -1,0 +1,58 @@
+name: Validate Plugin Entry
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review]
+
+concurrency:
+  group: validate-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: validate plugin entry
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      actions: write
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      PR: ${{ github.event.pull_request.number }}
+      HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+    steps:
+      # pull_request_target runs with secrets, so PR content is only ever read as data, never checked out or run
+      - name: Check out the base branch
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - name: Fetch the PR head
+        run: git fetch origin "pull/$PR/head"
+      - name: setup python
+        uses: actions/setup-python@v7
+        with:
+          python-version: 3.13
+      - name: Validate entry
+        id: check
+        run: python .github/scripts/validate_plugin.py --head "$HEAD_SHA" --author "$AUTHOR" --report report.md
+        env:
+          AUTHOR: ${{ github.event.pull_request.user.login }}
+          VT_API_KEY: ${{ secrets.VT_API_KEY }}
+          AUTO_MERGE: ${{ vars.AUTO_MERGE }}
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Post report
+        if: always() && hashFiles('report.md') != ''
+        run: |
+          cat report.md >> "$GITHUB_STEP_SUMMARY"
+          id=$(gh api "repos/$GH_REPO/issues/$PR/comments" --paginate \
+            --jq '.[] | select(.user.login == "github-actions[bot]" and (.body|startswith("<!-- plugin-validation -->"))) | .id' | head -1)
+          if [ -n "$id" ]; then
+            gh api -X PATCH "repos/$GH_REPO/issues/comments/$id" -F body=@report.md > /dev/null
+          else
+            gh pr comment "$PR" --body-file report.md
+          fi
+      - name: Merge and rebuild plugin list
+        if: steps.check.outputs.eligible == 'true' && vars.AUTO_MERGE == 'true' && !github.event.pull_request.draft
+        run: |
+          gh pr merge "$PR" --merge --match-head-commit "$HEAD_SHA"
+          gh workflow run merge.yml --ref main
