@@ -330,6 +330,7 @@ def main() -> int:
     if os.environ.get('GITHUB_OUTPUT'):
         with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as f:
             f.write(f'eligible={"false" if why else "true"}\n')
+            f.write('reasons<<EOF\n' + ''.join(f'- {w}\n' for w in why) + 'EOF\n')
 
     return 1 if rep.errors else 0
 

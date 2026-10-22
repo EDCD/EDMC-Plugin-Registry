@@ -80,6 +80,7 @@ An update to an existing listing may be merged automatically, without waiting fo
 - `pluginZip` is hosted by the same GitHub/GitLab owner as `pluginMainLink`.
 - The PR is opened by the owner of the `pluginMainLink` repository, or by a GitHub user named in `pluginAuthors`.
 
+The PR's "Auto-merge eligibility" check shows whether these conditions are met, and lists any that are not.
 New listings, and updates that don't meet these conditions, are reviewed by a maintainer as before.
 
 # Review Team

@@ -15,6 +15,7 @@ jobs:
       contents: write
       pull-requests: write
       actions: write
+      checks: write
     env:
       GH_TOKEN: ${{ github.token }}
       GH_REPO: ${{ github.repository }}
@@ -51,6 +52,21 @@ jobs:
           else
             gh pr comment "$PR" --body-file report.md
           fi
+      - name: Report auto-merge eligibility
+        if: always() && steps.check.outputs.eligible != ''
+        run: |
+          if [ "$ELIGIBLE" = true ]; then
+            conclusion=success; title="Eligible"; [ "$AUTO_MERGE" = true ] || title="Eligible (auto-merge disabled)"
+          else
+            conclusion=neutral; title="Not eligible: $(printf '%s\n' "$REASONS" | head -1 | sed 's/^- //')"
+          fi
+          gh api "repos/$GH_REPO/check-runs" -f name="Auto-merge eligibility" -f head_sha="$HEAD_SHA" -f status=completed \
+            -f conclusion="$conclusion" -f "output[title]=$title" \
+            -f "output[summary]=${REASONS:-All auto-merge conditions met.}" > /dev/null
+        env:
+          ELIGIBLE: ${{ steps.check.outputs.eligible }}
+          REASONS: ${{ steps.check.outputs.reasons }}
+          AUTO_MERGE: ${{ vars.AUTO_MERGE }}
       - name: Merge and rebuild plugin list
         if: steps.check.outputs.eligible == 'true' && vars.AUTO_MERGE == 'true' && !github.event.pull_request.draft
         run: |
