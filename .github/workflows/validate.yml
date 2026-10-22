@@ -1,3 +1,14 @@
+# Validate a plugin entry PR
+
+# This workflow checks the plugin entry for a PR, reports any errors and its eligibility for auto-merge, and posts a
+# comment on the validation report.
+#
+# The validation and eligibility checks are performed by the `validate_plugin.py` script.
+#
+# Variables
+#   secrets.VT_API_KEY — required to validate the plugin entry's Virus Total report
+#   vars.AUTO_MERGE — optional, if set eligible PRs will be merged automatically.
+
 name: Validate Plugin Entry
 on:
   pull_request_target:

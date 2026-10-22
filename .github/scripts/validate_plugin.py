@@ -1,4 +1,25 @@
-"""Validate a plugin registry entry and decide whether it can be auto-merged."""
+"""
+Validate a plugin registry entry and decide whether it can be auto-merged.
+
+It performs the following checks:
+- Main link is a valid URL
+- Required fields are present
+- There are no unknown fields
+- Lists of strings are strings
+- Required lists are not empty
+- Categories are recognised
+- License is recognised
+- Date formats are valid
+- Semantic version format is valid
+- VirusTotal link and hash verification
+- VirusTotal scan is clean
+
+It determines auto-merge eligibility based on the following criteria:
+- Passes all validation checks
+- Is an existing entry in the registry
+- Version has been increased compared to the existing entry
+- The PR author must be the plugin repository owner or a listed author
+"""
 import argparse
 import datetime
 import hashlib
@@ -60,7 +81,7 @@ def parse_ver(ver) -> tuple|None:
     return tuple(int(x) for x in m.group(2, 3, 4)) if m else None
 
 
-def repo_of(url) -> tuple|None:
+def repo_details(url) -> tuple|None:
     """(host, owner, project path) for a github.com or gitlab.com URL."""
     if not isinstance(url, str): return None
 
@@ -103,51 +124,64 @@ def check_schema(entry, rep:Report):
         rep.err('Entry must be a JSON object')
         return
 
+    # Check that all required fields are present and of the correct type
     for key, typ in REQUIRED.items():
         if key not in entry:
             rep.err(f'Missing required field `{key}`')
         elif not isinstance(entry[key], typ):
             rep.err(f'`{key}` must be a {typ.__name__}')
 
+    # Check that all optional fields, if present, are of the correct type
     for key, typ in OPTIONAL.items():
         if key in entry and not isinstance(entry[key], typ): rep.err(f'`{key}` must be a {typ.__name__}')
 
+    # Warn about any unknown fields
     for key in entry.keys() - REQUIRED.keys() - OPTIONAL.keys():
         rep.warn(f'Unknown field `{key}`')
 
+    # Check lists of strings
     for key in ('pluginAuthors', 'pluginCategory', 'pluginRequirements'):
         val = entry.get(key)
         if isinstance(val, list) and not all(isinstance(x, str) for x in val): rep.err(f'`{key}` must be a list of strings')
 
+    # Check required lists are not empty
     for key in ('pluginAuthors', 'pluginCategory'):
         if entry.get(key) == []: rep.err(f'`{key}` must not be empty')
 
+    # Check that the plugin version is a valid semantic version
     m = VER_RE.fullmatch(entry.get('pluginVer') or '')
     if not m: rep.err(f'`pluginVer` "{entry.get("pluginVer")}" is not a semantic version (Major.Minor.Patch)')
     if m and m.group(1): rep.warn('`pluginVer` should not have a `v` prefix')
 
+    # Check that the last update date is valid
     try:
         datetime.date.fromisoformat(entry.get('pluginLastUpdate') or '')
     except (TypeError, ValueError):
         rep.err('`pluginLastUpdate` must be a YYYY-MM-DD date')
 
+    # Confirm the main link is an https URL
     if not str(entry.get('pluginMainLink', '')).startswith('https://'): rep.err('`pluginMainLink` must be an https URL')
 
+    # Confirm the plugin categories are recognised
     cats = entry.get('pluginCategory')
     for cat in cats if isinstance(cats, list) else []:
         if cat not in CATEGORIES: rep.warn(f'Category "{cat}" is not in the documented list')
 
+    # Confirm the plugin license is recognised
     if entry.get('pluginLicense') not in LICENSES:
         rep.warn(f'License "{entry.get("pluginLicense")}" is not a recognised GPL-compatible SPDX identifier')
 
+    # Confirm the auto-install setting is appropriate
     if entry.get('autoInstallEnabled') is True: rep.warn('`autoInstallEnabled` should be false until EDMC supports it')
 
+    # Verify the zip hash and confirm the zip url and hash match
     zip_url, sha = entry.get('pluginZip'), entry.get('pluginHash')
     if zip_url and not str(zip_url).startswith('https://'): rep.err('`pluginZip` must be an https URL')
     if zip_url and not sha: rep.warn('`pluginHash` should be set when `pluginZip` is set')
     if sha and not SHA_RE.fullmatch(str(sha).lower()): rep.err('`pluginHash` must be a 64 character SHA256 hex digest')
 
-    main, zrepo = repo_of(entry.get('pluginMainLink')), repo_of(zip_url)
+    # Confirm that the plugin zip is hosted by the same owner as the main link
+    main, zrepo = repo_details(entry.get('pluginMainLink')), repo_details(zip_url)
     if zip_url and (not main or not zrepo or main[:2] != zrepo[:2]):
         rep.warn('`pluginZip` is not hosted by the same GitHub/GitLab owner as `pluginMainLink`', block=True)
 
@@ -184,7 +218,7 @@ def ineligible(entry:dict, base:dict|None, author:str, rep:Report) -> list:
     if not entry.get('pluginZip') or not entry.get('pluginHash'): why.append('`pluginZip` and `pluginHash` are required')
     if not rep.vt_ok: why.append('VirusTotal scan not verified clean')
 
-    owner = repo_of(base.get('pluginMainLink'))
+    owner = repo_details(base.get('pluginMainLink'))
     authors:list = [str(a).lower() for a in base.get('pluginAuthors') or []]
     who:str = author.lower()
     if not who or (who != (owner[1] if owner else None) and who not in authors):
@@ -209,7 +243,7 @@ def fetch(url:str, headers:dict|None = None, method:str = 'GET', limit:int|None 
 def check_main_link(entry:dict, rep:Report):
     """pluginMainLink resolves to an existing project."""
     url:str = entry['pluginMainLink']
-    repo = repo_of(url)
+    repo = repo_details(url)
     token:str = os.environ.get('GITHUB_TOKEN', '')
 
     if repo and repo[0] == 'github.com':

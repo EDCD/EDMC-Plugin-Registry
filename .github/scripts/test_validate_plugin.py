@@ -1,4 +1,4 @@
-"""Tests for the offline checks in validate_plugin."""
+""" Unit tests for validate_plugin.py """
 import os
 import sys
 
@@ -88,6 +88,6 @@ def test_ineligible_cases():
 
 
 def test_repo_of():
-    assert vp.repo_of('https://github.com/Owner/Demo.git') == ('github.com', 'owner', 'owner/demo')
-    assert vp.repo_of('https://gitlab.com/inutt/edmc-x/-/releases/v1/downloads/x.zip') == ('gitlab.com', 'inutt', 'inutt/edmc-x')
-    assert vp.repo_of('https://edrecon.com') is None
+    assert vp.repo_details('https://github.com/Owner/Demo.git') == ('github.com', 'owner', 'owner/demo')
+    assert vp.repo_details('https://gitlab.com/inutt/edmc-x/-/releases/v1/downloads/x.zip') == ('gitlab.com', 'inutt', 'inutt/edmc-x')
+    assert vp.repo_details('https://edrecon.com') is None
