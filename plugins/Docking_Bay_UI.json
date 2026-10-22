@@ -1,0 +1,19 @@
+{
+  "pluginName": "Docking Bay UI",
+  "pluginVer": "1.3.19",
+  "pluginZip": "https://github.com/Duceowen/Docking_Bay_UI/releases/download/v1.3.19/Docking_Bay_UI.zip",
+  "autoUpdateEnabled": false,
+  "autoInstallEnabled": false,
+  "pluginAuthors": ["Duceowen"],
+  "pluginMainLink": "https://github.com/Duceowen/Docking_Bay_UI",
+  "pluginLastUpdate": "2026-10-18",
+  "pluginDirName": "Docking_Bay_UI",
+  "pluginCategory": ["Utility"],
+  "pluginDesc": "Rearrange, hide, and restyle the blocks in EDMC's main window, and control the window's text colors and opacity.",
+  "pluginLastTestedEDMC": "6.1.2",
+  "pluginRequirements": [],
+  "pluginLicense": "GPL-2.0-or-later",
+  "pluginIcon": "",
+  "pluginVT": "",
+  "pluginHash": "81b8fb8150da08c5fc2b65bd6dcb265bc1b00319d92c91dfcd337004fcd9324e"
+}
