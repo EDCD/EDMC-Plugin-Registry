@@ -9,7 +9,7 @@
     "pluginDirName": "CarrierBoard",
     "pluginCategory": ["Trading"],
     "pluginDesc": "View, post, and complete Fleet Carrier trade jobs from a shared community trade board, directly inside EDMC.",
-    "pluginLastTestedEDMC": "6.1.2+b7758a6",
+    "pluginLastTestedEDMC": "6.1.2",
     "pluginLicense": "MIT",
     "pluginHash": "3448fe778f858626c81a4b4e49f7ddc5f7f7ec958429f5c4df691b7718569368",
     "pluginZip": "https://github.com/G4MERL1FE/EDMC-CarrierBoard/releases/download/v1.0.1/CarrierBoard.zip",
