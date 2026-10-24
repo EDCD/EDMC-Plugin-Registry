@@ -32,7 +32,6 @@ jobs:
             plugins_dir = "plugins"
             output_file = "master_plugin_list.json"
 
-            # Create SSL context for HTTPS requests
             ssl_context = ssl.create_default_context()
 
             def fetch_json(url: str) -> dict | None:
@@ -82,8 +81,12 @@ jobs:
                 if not entry.is_file() or not entry.name.lower().endswith(".json"):
                     continue
 
-                with open(entry.path, "r", encoding="utf-8") as f:
-                    plugin = json.load(f)
+                try:
+                    with open(entry.path, "r", encoding="utf-8") as f:
+                        plugin = json.load(f)
+                except Exception as e:
+                    print(f"ERROR: Failed to parse JSON in file '{entry.path}': {e}")
+                    raise
 
                 plugin_stars = ""
                 main_link = plugin.get("pluginMainLink", "")
