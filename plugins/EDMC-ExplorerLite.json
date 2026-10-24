@@ -11,7 +11,7 @@
     "pluginCategory": ["Exploration", "Cartography", "Exobiology", "Other"],
     "pluginDesc": "A lightweight, self-contained exploration assistant for cartography, exobiology and surface mining.",
     "pluginLastTestedEDMC": "6.1.2",
-    "pluginIcon": "https://github.com/dwomble/EDMC-ExplorerLite/blob/main/assets/logo_color.png"
+    "pluginIcon": "https://github.com/dwomble/EDMC-ExplorerLite/blob/main/assets/logo_color.png",
     "pluginRequirements": [],
     "pluginLicense": "MIT License",
     "pluginVT": "https://www.virustotal.com/gui/file/1a321284fc3b28c25a97f18f5f470f13617fe4e7a5899376a9c8572ba1843094",
