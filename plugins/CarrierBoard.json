@@ -1,19 +1,19 @@
 {
     "pluginName": "CarrierBoard",
-    "pluginVer": "1.0.1",
+    "pluginVer": "1.0.4",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": ["G4MERL1FE"],
     "pluginMainLink": "https://github.com/G4MERL1FE/EDMC-CarrierBoard",
-    "pluginLastUpdate": "2026-10-03",
+    "pluginLastUpdate": "2026-10-25",
     "pluginDirName": "CarrierBoard",
     "pluginCategory": ["Trading"],
     "pluginDesc": "View, post, and complete Fleet Carrier trade jobs from a shared community trade board, directly inside EDMC.",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginLicense": "MIT",
-    "pluginHash": "3448fe778f858626c81a4b4e49f7ddc5f7f7ec958429f5c4df691b7718569368",
-    "pluginZip": "https://github.com/G4MERL1FE/EDMC-CarrierBoard/releases/download/v1.0.1/CarrierBoard.zip",
+    "pluginHash": "d51cb0a292063d0add757676bad08b83a3efa0740923c0a63266e2c836075572",
+    "pluginZip": "https://github.com/G4MERL1FE/EDMC-CarrierBoard/releases/download/v1.0.4/CarrierBoard_v1.0.4.zip",
     "pluginRequirements": [],
     "pluginIcon": "",
-    "pluginVT": "https://www.virustotal.com/gui/file/3448fe778f858626c81a4b4e49f7ddc5f7f7ec958429f5c4df691b7718569368"
+    "pluginVT": "https://www.virustotal.com/gui/file/d51cb0a292063d0add757676bad08b83a3efa0740923c0a63266e2c836075572"
 }
