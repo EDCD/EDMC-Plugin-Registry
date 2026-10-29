@@ -124,7 +124,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "dfc8d8233ba9f3d4357757e6d3f4a3fd52d1169cdb25a168af0ffe2e45dfa1dd",
-    "pluginStars": "48"
+    "pluginStars": "49"
   },
   {
     "pluginName": "EDMC-Engineering",
@@ -325,7 +325,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "f6719ccb780247fc5a721eb56b251b81be93df4659d0215c81895574f24cff32",
-    "pluginStars": "30"
+    "pluginStars": "31"
   },
   {
     "pluginName": "EDMC-PowerPlayProgress",
@@ -499,7 +499,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
     "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.9.0/vt-transparency.html",
     "pluginHash": "",
-    "pluginStars": "57"
+    "pluginStars": "58"
   },
   {
     "pluginName": "GalaxyGPS",
@@ -662,7 +662,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "c43a11a9b56e534c419c2e799ae503deb17021d33aa288677b2d47fcd7ddd002",
-    "pluginStars": "12"
+    "pluginStars": "13"
   },
   {
     "pluginName": "LandingPad",
@@ -687,7 +687,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "7d2051bd7f64cb62d7f50bb9d2f18e6f8f1669fca3664aca34386dd2be61861b",
-    "pluginStars": "51"
+    "pluginStars": "52"
   },
   {
     "pluginName": "RhinoSpotter",
