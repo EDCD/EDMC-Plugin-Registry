@@ -12,8 +12,8 @@
     "pluginDesc": "The easiest way to use Spansh' sophisticated Galaxy Plotter from within EDMC. Supports Galaxy, Neutron, Riches, Expressway, Trade, Tourist and Fleet Carrier routes. Plus IndyHost Neutron Plotter and a Boxel Surveyor. Includes overlay, hotkey, and chat command support along with jump statistics, cooldown timers, and refuel notifications.",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginRequirements": [],
-    "pluginLicense": "MIT License",
+    "pluginLicense": "MIT",
     "pluginIcon": "https://raw.githubusercontent.com/dwomble/EDMC-NeutronDancer/master/assets/logo_alpha.png",
     "pluginVT": "https://www.virustotal.com/gui/file/0ae13fc2541cc28fecd8a42f0268d8542531cc597c51409f61cce17620bfaebc",
-    "pluginHash": "sha256:0ae13fc2541cc28fecd8a42f0268d8542531cc597c51409f61cce17620bfaebc"
+    "pluginHash": "0ae13fc2541cc28fecd8a42f0268d8542531cc597c51409f61cce17620bfaebc"
   }
