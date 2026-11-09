@@ -13,7 +13,7 @@
     "pluginLastTestedEDMC": "6.1.2",
     "pluginRequirements": [],
     "pluginLicense": "MIT License",
-    "pluginIcon": "https://github.com/dwomble/EDMC-NeutronDancer/blob/master/assets/logo_alpha.png",
+    "pluginIcon": "https://raw.githubusercontent.com/dwomble/EDMC-NeutronDancer/master/assets/logo_alpha.png",
     "pluginVT": "https://www.virustotal.com/gui/file/0ae13fc2541cc28fecd8a42f0268d8542531cc597c51409f61cce17620bfaebc",
     "pluginHash": "sha256:0ae13fc2541cc28fecd8a42f0268d8542531cc597c51409f61cce17620bfaebc"
   }
