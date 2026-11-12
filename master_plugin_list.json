@@ -421,20 +421,23 @@
   },
   {
     "pluginName": "EDMC-StreamHUD",
-    "pluginVer": "1.0.0",
-    "pluginZip": "https://github.com/NinurtaKalhu/EDMC-StreamHUD/releases/download/v1.0.0/EDMC-StreamHUD.zip",
+    "pluginVer": "2.0.0",
+    "pluginZip": "https://github.com/NinurtaKalhu/EDMC-StreamHUD/releases/download/v2.0/EDMC-StreamHUD.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "Ninurta Kalhu"
     ],
     "pluginMainLink": "https://github.com/NinurtaKalhu/EDMC-StreamHUD",
-    "pluginLastUpdate": "2026-09-13",
+    "pluginLastUpdate": "2026-11-12",
     "pluginDirName": "EDMC-StreamHUD",
     "pluginCategory": [
       "Streaming",
       "Overlay",
-      "Exploration"
+      "Exploration",
+      "Combat",
+      "Trading",
+      "Other"
     ],
     "pluginDesc": "A customizable OBS overlay displaying live CMDR telemetry.",
     "pluginLastTestedEDMC": "6.1.2",
@@ -442,7 +445,7 @@
     "pluginLicense": "GPL-3.0-or-later",
     "pluginIcon": "",
     "pluginVT": "",
-    "pluginHash": "sha256:336325e49977b29220a3d8180d1f8f41232aecd28587f84a3104be2be0d31754",
+    "pluginHash": "sha256:43d6c45bef4473f4c687cd0200f75fb536f68c44a582777e7f496bfbedd7407f",
     "pluginStars": "0"
   },
   {
