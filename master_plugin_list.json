@@ -435,10 +435,9 @@
       "Streaming",
       "Overlay",
       "Exploration",
-      "Exobiology",
       "Combat",
-      "Mining",
-      "Merits"
+      "Trading",
+      "Other"
     ],
     "pluginDesc": "A customizable OBS overlay displaying live CMDR telemetry.",
     "pluginLastTestedEDMC": "6.1.2",
