@@ -1,19 +1,19 @@
   {
     "pluginName": "EDMC-PowerPlayProgress",
-    "pluginVer": "0.9.15",
-    "pluginZip": "https://github.com/alby666/EDMC-PowerPlayProgress/releases/download/v0.9.15/EDMC-PowerPlayProgress.zip",
+    "pluginVer": "0.9.17",
+    "pluginZip": "https://github.com/alby666/EDMC-PowerPlayProgress/releases/download/v0.9.17/EDMC-PowerPlayProgress.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": ["alby666"],
     "pluginMainLink": "https://github.com/alby666/EDMC-PowerPlayProgress",
-    "pluginLastUpdate": "2026-01-17",
+    "pluginLastUpdate": "2026-10-16",
     "pluginDirName": "EDMC-PowerPlayProgress",
     "pluginCategory": ["Utility", "Other"],
     "pluginDesc": "Power play progress tracking plugin for EDMC",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginRequirements": [],
     "pluginLicense": "MIT",
-    "pluginIcon": "",
+    "pluginIcon": "https://github.com/alby666/EDMC-PowerPlayProgress/blob/main/EDMC-PowerPlayProgres_logo.png",
     "pluginVT": "",
     "pluginHash": "1f15faa47a7c8521fffd24058cc583d57cbd054a43f7971d747255f9a2552e4c"
 }

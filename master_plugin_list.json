@@ -1,15 +1,15 @@
 [
   {
     "pluginName": "Architect Tracker",
-    "pluginVer": "1.6",
-    "pluginZip": "https://github.com/kfpopeye/EliteDangerous/archive/refs/tags/v1.6.zip",
+    "pluginVer": "1.8",
+    "pluginZip": "https://github.com/kfpopeye/EliteDangerous/archive/refs/tags/v1.8.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "kf popeye"
     ],
     "pluginMainLink": "https://github.com/kfpopeye/EliteDangerous",
-    "pluginLastUpdate": "2026-06-11",
+    "pluginLastUpdate": "2026-09-27",
     "pluginDirName": "ArchitectTracker",
     "pluginCategory": [
       "Colonisation"
@@ -21,19 +21,19 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "",
-    "pluginStars": "7"
+    "pluginStars": "8"
   },
   {
     "pluginName": "BGS-Tally",
-    "pluginVer": "5.5.1",
-    "pluginZip": "https://github.com/aussig/BGS-Tally/releases/download/5.5.1/BGS-Tally.zip",
+    "pluginVer": "5.6.1",
+    "pluginZip": "https://github.com/aussig/BGS-Tally/releases/download/5.6.1/BGS-Tally.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "aussig"
     ],
     "pluginMainLink": "https://github.com/aussig/BGS-Tally",
-    "pluginLastUpdate": "2026-05-11",
+    "pluginLastUpdate": "2026-09-12",
     "pluginDirName": "BGS-Tally",
     "pluginCategory": [
       "Colonisation",
@@ -46,9 +46,57 @@
     "pluginRequirements": [],
     "pluginLicense": "MIT",
     "pluginIcon": "https://raw.githubusercontent.com/aussig/BGS-Tally/refs/heads/develop/assets/logo_bgstally_100x67.png",
-    "pluginVT": "https://www.virustotal.com/gui/url/42efa419f93884d42f37ac3ede2628ac72d11861f3e5d5023706160f3ee47d6b",
-    "pluginHash": "bb95a1d9e731da18d3478e9e5c6adf9f42a20bcb689fd90f932573c2bf9e9525",
-    "pluginStars": "59"
+    "pluginVT": "https://www.virustotal.com/gui/url/89870149fb325d70c619888b902c8fcffce3db4450608d30028f18b9e3ea8dcd",
+    "pluginHash": "2976378ab99165396f13983b1eb5789ac1bfa7a71096f4096bd0a097a17e00c4",
+    "pluginStars": "63"
+  },
+  {
+    "pluginName": "CarrierBoard",
+    "pluginVer": "1.0.4",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "G4MERL1FE"
+    ],
+    "pluginMainLink": "https://github.com/G4MERL1FE/EDMC-CarrierBoard",
+    "pluginLastUpdate": "2026-10-25",
+    "pluginDirName": "CarrierBoard",
+    "pluginCategory": [
+      "Trading"
+    ],
+    "pluginDesc": "View, post, and complete Fleet Carrier trade jobs from a shared community trade board, directly inside EDMC.",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginLicense": "MIT",
+    "pluginHash": "d51cb0a292063d0add757676bad08b83a3efa0740923c0a63266e2c836075572",
+    "pluginZip": "https://github.com/G4MERL1FE/EDMC-CarrierBoard/releases/download/v1.0.4/CarrierBoard_v1.0.4.zip",
+    "pluginRequirements": [],
+    "pluginIcon": "",
+    "pluginVT": "https://www.virustotal.com/gui/file/d51cb0a292063d0add757676bad08b83a3efa0740923c0a63266e2c836075572",
+    "pluginStars": "1"
+  },
+  {
+    "pluginName": "Docking Bay UI",
+    "pluginVer": "1.3.19",
+    "pluginZip": "https://github.com/Duceowen/Docking_Bay_UI/releases/download/v1.3.19/Docking_Bay_UI.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "Duceowen"
+    ],
+    "pluginMainLink": "https://github.com/Duceowen/Docking_Bay_UI",
+    "pluginLastUpdate": "2026-10-18",
+    "pluginDirName": "Docking_Bay_UI",
+    "pluginCategory": [
+      "Utility"
+    ],
+    "pluginDesc": "Rearrange, hide, and restyle the blocks in EDMC's main window, and control the window's text colors and opacity.",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginRequirements": [],
+    "pluginLicense": "GPL-2.0-or-later",
+    "pluginIcon": "",
+    "pluginVT": "",
+    "pluginHash": "81b8fb8150da08c5fc2b65bd6dcb265bc1b00319d92c91dfcd337004fcd9324e",
+    "pluginStars": "0"
   },
   {
     "pluginName": "EDMC-BioScan",
@@ -76,7 +124,60 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "dfc8d8233ba9f3d4357757e6d3f4a3fd52d1169cdb25a168af0ffe2e45dfa1dd",
-    "pluginStars": "46"
+    "pluginStars": "49"
+  },
+  {
+    "pluginName": "EDMC-Engineering",
+    "pluginVer": "0.6.9",
+    "pluginZip": "https://github.com/majorxp00/EDMC-Engineering/releases/download/v0.6.9/EDMC-Engineering-0.6.9.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "majorxp00"
+    ],
+    "pluginMainLink": "https://github.com/majorxp00/EDMC-Engineering",
+    "pluginLastUpdate": "2026-10-09",
+    "pluginDirName": "EDMC-Engineering",
+    "pluginCategory": [
+      "Engineering"
+    ],
+    "pluginDesc": "Sends the journal events an engineering planner needs (materials, engineer progress, ships, location, plotted route) to your account on ed.golegend.com as you play, so your engineering plan stays current, and shows a destination picked on the site with it put on the clipboard for the galaxy map.",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginRequirements": [
+      "An account on https://ed.golegend.com and a plugin key from its Account page"
+    ],
+    "pluginLicense": "MIT",
+    "pluginIcon": "",
+    "pluginVT": "",
+    "pluginHash": "c7f911164ad233b54a79add935816e6baccf500389c61f81b37b9fdcb95339d1",
+    "pluginStars": "1"
+  },
+  {
+    "pluginName": "EDMC-ExplorerLite",
+    "pluginVer": "2.0.1",
+    "pluginZip": "https://github.com/dwomble/EDMC-ExplorerLite/releases/download/v2.0.1/EDMC-ExplorerLite.zip",
+    "autoUpdateEnabled": true,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "dwomble"
+    ],
+    "pluginMainLink": "https://github.com/dwomble/EDMC-ExplorerLite",
+    "pluginLastUpdate": "2026-10-19",
+    "pluginDirName": "EDMC-ExplorerLite",
+    "pluginCategory": [
+      "Exploration",
+      "Cartography",
+      "Exobiology",
+      "Other"
+    ],
+    "pluginDesc": "A lightweight, self-contained exploration assistant for cartography, exobiology and surface mining.",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginIcon": "https://github.com/dwomble/EDMC-ExplorerLite/blob/main/assets/logo_color.png",
+    "pluginRequirements": [],
+    "pluginLicense": "MIT License",
+    "pluginVT": "https://www.virustotal.com/gui/file/1a321284fc3b28c25a97f18f5f470f13617fe4e7a5899376a9c8572ba1843094",
+    "pluginHash": "1a321284fc3b28c25a97f18f5f470f13617fe4e7a5899376a9c8572ba1843094",
+    "pluginStars": "10"
   },
   {
     "pluginName": "EDMC-LimpetTimer",
@@ -95,7 +196,7 @@
     "pluginDesc": "Tracks Collector Limpet launches and estimates active limpets, controller capacity, and remaining lifetime.",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginLicense": "MIT",
-    "pluginStars": "0"
+    "pluginStars": "2"
   },
   {
     "pluginName": "EDMC-LogEventMiner",
@@ -121,7 +222,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/url/a86d46dc81d50619493f3e2a246a0c3ba3aa676a55b3e6c03a873df317f6d3a1",
     "pluginHash": "",
-    "pluginStars": "1"
+    "pluginStars": "2"
   },
   {
     "pluginName": "EDMC-Mining-Analytics",
@@ -145,7 +246,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/url/883913debe789d3a942cf0d204899236b9cb74e59bdd825834a4e045c64cbfd5?nocache=1",
     "pluginHash": "",
-    "pluginStars": "26"
+    "pluginStars": "27"
   },
   {
     "pluginName": "EDMC-NavRoute",
@@ -172,32 +273,32 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "fe0843c4546c357150eb11846809869bd965a1af5e3e3112a17792b88d6197c7",
-    "pluginStars": "4"
+    "pluginStars": "5"
   },
   {
     "pluginName": "EDMC-NeutronDancer",
-    "pluginVer": "1.9.0",
-    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v1.9.0/EDMC-NeutronDancer.zip",
+    "pluginVer": "3.0.0",
+    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v3.0.0/EDMC-NeutronDancer.zip",
     "autoUpdateEnabled": true,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "dwomble"
     ],
     "pluginMainLink": "https://github.com/dwomble/EDMC-NeutronDancer",
-    "pluginLastUpdate": "2026-04-24",
+    "pluginLastUpdate": "2026-11-09",
     "pluginDirName": "EDMC-NeutronDancer",
     "pluginCategory": [
       "Navigation",
       "Exploration"
     ],
-    "pluginDesc": "The easiest way to use Spansh' sophisticated Galaxy Plotter from within EDMC. Supports Galaxy, Neutron, and other Spansh routes. Includes overlay, hotkey, and chat command support along with jump statistics, cooldown timers, and refuel notifications.",
+    "pluginDesc": "The easiest way to use Spansh' sophisticated Galaxy Plotter from within EDMC. Supports Galaxy, Neutron, Riches, Expressway, Trade, Tourist and Fleet Carrier routes. Plus IndyHost Neutron Plotter and a Boxel Surveyor. Includes overlay, hotkey, and chat command support along with jump statistics, cooldown timers, and refuel notifications.",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginRequirements": [],
-    "pluginLicense": "MIT License",
-    "pluginIcon": "",
-    "pluginVT": "https://www.virustotal.com/gui/file/f77c366ea4d4170d7c39939b2632e5cb94dbbf516c0eac8ef7041a86a88169ba",
-    "pluginHash": "f77c366ea4d4170d7c39939b2632e5cb94dbbf516c0eac8ef7041a86a88169ba",
-    "pluginStars": "23"
+    "pluginLicense": "MIT",
+    "pluginIcon": "https://raw.githubusercontent.com/dwomble/EDMC-NeutronDancer/master/assets/logo_alpha.png",
+    "pluginVT": "https://www.virustotal.com/gui/file/0ae13fc2541cc28fecd8a42f0268d8542531cc597c51409f61cce17620bfaebc",
+    "pluginHash": "0ae13fc2541cc28fecd8a42f0268d8542531cc597c51409f61cce17620bfaebc",
+    "pluginStars": "29"
   },
   {
     "pluginName": "EDMC-Pioneer",
@@ -224,19 +325,19 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "f6719ccb780247fc5a721eb56b251b81be93df4659d0215c81895574f24cff32",
-    "pluginStars": "27"
+    "pluginStars": "31"
   },
   {
     "pluginName": "EDMC-PowerPlayProgress",
-    "pluginVer": "0.9.15",
-    "pluginZip": "https://github.com/alby666/EDMC-PowerPlayProgress/releases/download/v0.9.15/EDMC-PowerPlayProgress.zip",
+    "pluginVer": "0.9.17",
+    "pluginZip": "https://github.com/alby666/EDMC-PowerPlayProgress/releases/download/v0.9.17/EDMC-PowerPlayProgress.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "alby666"
     ],
     "pluginMainLink": "https://github.com/alby666/EDMC-PowerPlayProgress",
-    "pluginLastUpdate": "2026-01-17",
+    "pluginLastUpdate": "2026-10-16",
     "pluginDirName": "EDMC-PowerPlayProgress",
     "pluginCategory": [
       "Utility",
@@ -246,10 +347,10 @@
     "pluginLastTestedEDMC": "6.1.2",
     "pluginRequirements": [],
     "pluginLicense": "MIT",
-    "pluginIcon": "",
+    "pluginIcon": "https://github.com/alby666/EDMC-PowerPlayProgress/blob/main/EDMC-PowerPlayProgres_logo.png",
     "pluginVT": "",
     "pluginHash": "1f15faa47a7c8521fffd24058cc583d57cbd054a43f7971d747255f9a2552e4c",
-    "pluginStars": "17"
+    "pluginStars": "19"
   },
   {
     "pluginName": "EDMC Screenshot Linux",
@@ -291,7 +392,7 @@
     "pluginLicense": "MIT",
     "pluginHash": "10eed5d46cfb24a1206730c3a11887fe4f21d30059a3eb9db3d5072daaba10ef",
     "pluginZip": "https://github.com/Neurosis404/EDMC-ServerStatus/releases/download/0.1.1/EDMC_ServerStatus-0.1.1.zip",
-    "pluginStars": "0"
+    "pluginStars": "3"
   },
   {
     "pluginName": "EDMC-SpanshTools",
@@ -316,7 +417,33 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/url/9b61261cbc4375b877fe29c32151cdace9c9a7bb715359539bfa63f508e769a4",
     "pluginHash": "11dc77b5cd3b0d121b5fedf8cc52183bb0e48cf96d63e774af56793aa720b15c",
-    "pluginStars": "2"
+    "pluginStars": "4"
+  },
+  {
+    "pluginName": "EDMC-StreamHUD",
+    "pluginVer": "1.0.0",
+    "pluginZip": "https://github.com/NinurtaKalhu/EDMC-StreamHUD/releases/download/v1.0.0/EDMC-StreamHUD.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "Ninurta Kalhu"
+    ],
+    "pluginMainLink": "https://github.com/NinurtaKalhu/EDMC-StreamHUD",
+    "pluginLastUpdate": "2026-09-13",
+    "pluginDirName": "EDMC-StreamHUD",
+    "pluginCategory": [
+      "Streaming",
+      "Overlay",
+      "Exploration"
+    ],
+    "pluginDesc": "A customizable OBS overlay displaying live CMDR telemetry.",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginRequirements": [],
+    "pluginLicense": "GPL-3.0-or-later",
+    "pluginIcon": "",
+    "pluginVT": "",
+    "pluginHash": "sha256:336325e49977b29220a3d8180d1f8f41232aecd28587f84a3104be2be0d31754",
+    "pluginStars": "0"
   },
   {
     "pluginName": "EDMCHotkeys",
@@ -372,7 +499,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
     "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.9.0/vt-transparency.html",
     "pluginHash": "",
-    "pluginStars": "57"
+    "pluginStars": "59"
   },
   {
     "pluginName": "GalaxyGPS",
@@ -398,7 +525,35 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "47cf74f3f28f191ef54baf4134ac74b964bd177ada4722e4ad1af51fa0196900",
-    "pluginStars": "9"
+    "pluginStars": "11"
+  },
+  {
+    "pluginName": "ED Multitool",
+    "pluginVer": "0.80.0",
+    "pluginZip": "https://github.com/Martin8O/ED-Multitool/releases/download/v0.80.0/ED-Multitool-0.80.0.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "Martin8O"
+    ],
+    "pluginMainLink": "https://github.com/Martin8O/ED-Multitool",
+    "pluginLastUpdate": "2026-10-22",
+    "pluginDirName": "EDMultitool",
+    "pluginCategory": [
+      "Exploration",
+      "Navigation",
+      "Trading",
+      "Engineering",
+      "Utility"
+    ],
+    "pluginDesc": "Your whole toolkit in one window next to the game: scout a route for the bodies and biology worth a detour, find the best trade, the nearest station with every service you need, an engineer or a Powerplay target, all on your real laden jump range. Plus ranks, stats, earnings and missions.",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginRequirements": [],
+    "pluginLicense": "MIT",
+    "pluginIcon": "https://raw.githubusercontent.com/Martin8O/ED-Multitool/main/EDMultitool/edmultitool/web/icon-192.png",
+    "pluginVT": "https://www.virustotal.com/gui/url/be02562da823247162798f9dc99f1bd926d7a784204c788909b943730a05fe4f",
+    "pluginHash": "d777c13a5875f00be4dda37778d71be7f8ea8e9e8e921ef492b53f8380ef3b50",
+    "pluginStars": "0"
   },
   {
     "pluginName": "EDPlanetNavigator",
@@ -426,7 +581,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "77ea095c04b982ac367e333b8c3baef20d07e2d0814600509d826838bab59ba6",
-    "pluginStars": "3"
+    "pluginStars": "4"
   },
   {
     "pluginName": "ED Recon (EDR)",
@@ -507,32 +662,84 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "c43a11a9b56e534c419c2e799ae503deb17021d33aa288677b2d47fcd7ddd002",
-    "pluginStars": "10"
+    "pluginStars": "13"
   },
   {
     "pluginName": "LandingPad",
-    "pluginVer": "2.5.7",
-    "pluginZip": "https://github.com/bgol/LandingPad/releases/download/v2.5.7/LandingPad_v2.5.7.zip",
+    "pluginVer": "2.6.0",
+    "pluginZip": "https://github.com/bgol/LandingPad/releases/download/v2.6.0/LandingPad_v2.6.0.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "Bernd Gollesch"
     ],
     "pluginMainLink": "https://github.com/bgol/LandingPad",
-    "pluginLastUpdate": "2026-01-04",
+    "pluginLastUpdate": "2026-10-11",
     "pluginDirName": "LandingPad",
     "pluginCategory": [
       "Utility",
       "Navigation"
     ],
     "pluginDesc": "It helps people to find their assigned landingpad position in starports or fleetcarriers.",
-    "pluginLastTestedEDMC": "6.0.2",
+    "pluginLastTestedEDMC": "6.1.2",
     "pluginRequirements": [],
     "pluginLicense": "GPL-2.0-or-later",
     "pluginIcon": "",
-    "pluginVT": "https://www.virustotal.com/gui/file/4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
-    "pluginHash": "4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
-    "pluginStars": "49"
+    "pluginVT": "",
+    "pluginHash": "7d2051bd7f64cb62d7f50bb9d2f18e6f8f1669fca3664aca34386dd2be61861b",
+    "pluginStars": "52"
+  },
+  {
+    "pluginName": "RhinoSpotter",
+    "pluginVer": "6.4.6",
+    "pluginZip": "https://github.com/Fumlop/EDRhinoSpotter/releases/download/v6.4.6/EDMC_RhinoSpotter-6.4.6.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "Fumlop"
+    ],
+    "pluginMainLink": "https://github.com/Fumlop/EDRhinoSpotter",
+    "pluginLastUpdate": "2026-10-15",
+    "pluginDirName": "RhinoSpotter",
+    "pluginCategory": [
+      "Exploration",
+      "Utility"
+    ],
+    "pluginDesc": "Surface mining: which landable bodies in this system are worth prospecting, a minimap of the ground driven in the SRV with your bookmarks on it, and an arrow over the game that guides you back to them.",
+    "pluginLastTestedEDMC": "6.4.6",
+    "pluginRequirements": [],
+    "pluginLicense": "GPL-3.0-or-later",
+    "pluginIcon": "",
+    "pluginVT": "",
+    "pluginHash": "289b5f2d3e974ea35edcd1ec5a163f5c079c3ca32304fed264452c028bfe95e3",
+    "pluginStars": "18"
+  },
+  {
+    "pluginName": "Salty",
+    "pluginVer": "1.0.0",
+    "pluginZip": "",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "Duceowen"
+    ],
+    "pluginMainLink": "https://github.com/Duceowen/Salty",
+    "pluginLastUpdate": "2026-10-15",
+    "pluginDirName": "Salty",
+    "pluginCategory": [
+      "Social",
+      "Utility"
+    ],
+    "pluginDesc": "Chat log for Elite Dangerous: records every sent and received message, filters by channel, shows them in the EDMC main window or a larger pop-out window, and can raise on-screen notifications for incoming messages via EDMCModernOverlay. A port of the Communicator plugin from Elite Observatory Core.",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginRequirements": [
+      "EDMCModernOverlay for optional on-screen notifications"
+    ],
+    "pluginLicense": "MIT",
+    "pluginIcon": "",
+    "pluginVT": "",
+    "pluginHash": "",
+    "pluginStars": "0"
   },
   {
     "pluginName": "UpdateTD",
@@ -556,27 +763,27 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "6c4ec8bc7f2c6d24dc0947200c4598af525e59c2b97b2a5b6d179d3cb2b31ba0",
-    "pluginStars": "4"
+    "pluginStars": "7"
   },
   {
     "pluginName": "Cargo Manifest",
-    "pluginVer": "2.1.4",
+    "pluginVer": "2.2.3",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "Cmdr Inutt"
     ],
     "pluginMainLink": "https://gitlab.com/inutt/edmc-cargo-manifest",
-    "pluginLastUpdate": "2026-06-09",
+    "pluginLastUpdate": "2026-09-23",
     "pluginDirName": "cargo_manifest",
     "pluginCategory": [
       "Trading"
     ],
     "pluginDesc": "Shows a list of what's in your cargo hold along with its approximate value.",
-    "pluginLastTestedEDMC": "6.1.2",
+    "pluginLastTestedEDMC": "6.2.0-alpha0+6d03474",
     "pluginLicense": "GPL-3.0-or-later",
-    "pluginHash": "1750ec13df87361be0a5d2788349b20acdba04fefecbff27e0f0d1e944df8ff0",
-    "pluginZip": "https://gitlab.com/inutt/edmc-cargo-manifest/-/releases/v2.1.4/downloads/cargo_manifest.zip",
+    "pluginHash": "f06f90c7ea8859bf29b4d6e0a87011edc8e72da76969029b6005c66a5b3eb8c2",
+    "pluginZip": "https://gitlab.com/inutt/edmc-cargo-manifest/-/releases/v2.2.3/downloads/cargo_manifest.zip",
     "pluginRequirements": [],
     "pluginIcon": "https://gitlab.com/inutt/edmc-cargo-manifest/-/raw/main/img/icon.png",
     "pluginVT": "",
@@ -608,26 +815,26 @@
   },
   {
     "pluginName": "Route Scoop",
-    "pluginVer": "6.0.0",
+    "pluginVer": "7.4.0",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "Cmdr Inutt"
     ],
     "pluginMainLink": "https://gitlab.com/inutt/edmc-jump-fuel-plugin",
-    "pluginLastUpdate": "2026-07-14",
+    "pluginLastUpdate": "2026-10-12",
     "pluginDirName": "route_scoop",
     "pluginCategory": [
       "Navigation"
     ],
     "pluginDesc": "Visualise where you can scoop fuel along your plotted route.",
-    "pluginLastTestedEDMC": "6.2.0-alpha0+4eecc87",
+    "pluginLastTestedEDMC": "6.2.0-alpha0+6d03474",
     "pluginLicense": "GPL-3.0-or-later",
-    "pluginHash": "1e7914d0323c063d02c2b040557bfa6b9dbacb7b9fbbd0f4bc8f80cb0a102fe1",
-    "pluginZip": "https://gitlab.com/inutt/edmc-jump-fuel-plugin/-/releases/v6.0.0/downloads/route_scoop.zip",
+    "pluginHash": "524f6f7bb79db9122aa600bc834c767ec007efc6c109f5da9ee306e9d218cbac",
+    "pluginZip": "https://gitlab.com/inutt/edmc-jump-fuel-plugin/-/releases/v7.4.0/downloads/route_scoop.zip",
     "pluginRequirements": [],
-    "pluginIcon": "https://gitlab.com/inutt/edmc-docking-denied-reason/-/raw/main/images/icon.png",
+    "pluginIcon": "https://gitlab.com/inutt/edmc-jump-fuel-plugin/-/raw/main/images/icon.png",
     "pluginVT": "",
-    "pluginStars": "1"
+    "pluginStars": "3"
   }
 ]

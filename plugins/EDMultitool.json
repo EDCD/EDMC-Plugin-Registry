@@ -1,0 +1,27 @@
+{
+    "pluginName": "ED Multitool",
+    "pluginVer": "0.80.0",
+    "pluginZip": "https://github.com/Martin8O/ED-Multitool/releases/download/v0.80.0/ED-Multitool-0.80.0.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+        "Martin8O"
+    ],
+    "pluginMainLink": "https://github.com/Martin8O/ED-Multitool",
+    "pluginLastUpdate": "2026-10-22",
+    "pluginDirName": "EDMultitool",
+    "pluginCategory": [
+        "Exploration",
+        "Navigation",
+        "Trading",
+        "Engineering",
+        "Utility"
+    ],
+    "pluginDesc": "Your whole toolkit in one window next to the game: scout a route for the bodies and biology worth a detour, find the best trade, the nearest station with every service you need, an engineer or a Powerplay target, all on your real laden jump range. Plus ranks, stats, earnings and missions.",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginRequirements": [],
+    "pluginLicense": "MIT",
+    "pluginIcon": "https://raw.githubusercontent.com/Martin8O/ED-Multitool/main/EDMultitool/edmultitool/web/icon-192.png",
+    "pluginVT": "https://www.virustotal.com/gui/url/be02562da823247162798f9dc99f1bd926d7a784204c788909b943730a05fe4f",
+    "pluginHash": "d777c13a5875f00be4dda37778d71be7f8ea8e9e8e921ef492b53f8380ef3b50"
+}
