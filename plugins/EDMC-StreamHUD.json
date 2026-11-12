@@ -8,7 +8,7 @@
     "pluginMainLink": "https://github.com/NinurtaKalhu/EDMC-StreamHUD",
     "pluginLastUpdate": "2026-11-12",
     "pluginDirName": "EDMC-StreamHUD",
-    "pluginCategory": ["Streaming", "Overlay", "Exploration", "Exobiology", "Combat", "Mining", "Merits"],
+    "pluginCategory": ["Streaming", "Overlay", "Exploration", "Combat", "Trading", "Other"],
     "pluginDesc": "A customizable OBS overlay displaying live CMDR telemetry.",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginRequirements": [],
