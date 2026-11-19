@@ -21,7 +21,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "",
-    "pluginStars": "8"
+    "pluginStars": ""
   },
   {
     "pluginName": "BGS-Tally",
@@ -48,7 +48,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/aussig/BGS-Tally/refs/heads/develop/assets/logo_bgstally_100x67.png",
     "pluginVT": "https://www.virustotal.com/gui/url/89870149fb325d70c619888b902c8fcffce3db4450608d30028f18b9e3ea8dcd",
     "pluginHash": "2976378ab99165396f13983b1eb5789ac1bfa7a71096f4096bd0a097a17e00c4",
-    "pluginStars": "63"
+    "pluginStars": ""
   },
   {
     "pluginName": "CarrierBoard",
@@ -72,7 +72,7 @@
     "pluginRequirements": [],
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/d51cb0a292063d0add757676bad08b83a3efa0740923c0a63266e2c836075572",
-    "pluginStars": "1"
+    "pluginStars": ""
   },
   {
     "pluginName": "Docking Bay UI",
@@ -96,7 +96,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "81b8fb8150da08c5fc2b65bd6dcb265bc1b00319d92c91dfcd337004fcd9324e",
-    "pluginStars": "0"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-BioScan",
@@ -124,7 +124,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "dfc8d8233ba9f3d4357757e6d3f4a3fd52d1169cdb25a168af0ffe2e45dfa1dd",
-    "pluginStars": "49"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-Engineering",
@@ -150,7 +150,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "c7f911164ad233b54a79add935816e6baccf500389c61f81b37b9fdcb95339d1",
-    "pluginStars": "1"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-ExplorerLite",
@@ -177,7 +177,7 @@
     "pluginLicense": "MIT License",
     "pluginVT": "https://www.virustotal.com/gui/file/1a321284fc3b28c25a97f18f5f470f13617fe4e7a5899376a9c8572ba1843094",
     "pluginHash": "1a321284fc3b28c25a97f18f5f470f13617fe4e7a5899376a9c8572ba1843094",
-    "pluginStars": "10"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-LimpetTimer",
@@ -196,7 +196,7 @@
     "pluginDesc": "Tracks Collector Limpet launches and estimates active limpets, controller capacity, and remaining lifetime.",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginLicense": "MIT",
-    "pluginStars": "2"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-LogEventMiner",
@@ -222,7 +222,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/url/a86d46dc81d50619493f3e2a246a0c3ba3aa676a55b3e6c03a873df317f6d3a1",
     "pluginHash": "",
-    "pluginStars": "2"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-Mining-Analytics",
@@ -246,7 +246,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/url/883913debe789d3a942cf0d204899236b9cb74e59bdd825834a4e045c64cbfd5?nocache=1",
     "pluginHash": "",
-    "pluginStars": "27"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-NavRoute",
@@ -273,7 +273,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "fe0843c4546c357150eb11846809869bd965a1af5e3e3112a17792b88d6197c7",
-    "pluginStars": "5"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-NeutronDancer",
@@ -298,7 +298,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/dwomble/EDMC-NeutronDancer/master/assets/logo_alpha.png",
     "pluginVT": "https://www.virustotal.com/gui/file/0ae13fc2541cc28fecd8a42f0268d8542531cc597c51409f61cce17620bfaebc",
     "pluginHash": "0ae13fc2541cc28fecd8a42f0268d8542531cc597c51409f61cce17620bfaebc",
-    "pluginStars": "29"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-Pioneer",
@@ -325,7 +325,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "f6719ccb780247fc5a721eb56b251b81be93df4659d0215c81895574f24cff32",
-    "pluginStars": "31"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-PowerPlayProgress",
@@ -350,7 +350,7 @@
     "pluginIcon": "https://github.com/alby666/EDMC-PowerPlayProgress/blob/main/EDMC-PowerPlayProgres_logo.png",
     "pluginVT": "",
     "pluginHash": "1f15faa47a7c8521fffd24058cc583d57cbd054a43f7971d747255f9a2552e4c",
-    "pluginStars": "19"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC Screenshot Linux",
@@ -371,7 +371,7 @@
     "pluginLicense": "MIT",
     "pluginHash": "bf838ceb96486aad0f7fa3917219f08bc71479a89f00895854b290e900988744",
     "pluginZip": "https://github.com/adieball/EDMC-Screenshot-Linux/releases/download/0.1.4/EDMC-Screenshot-Linux.zip",
-    "pluginStars": "0"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-ServerStatus",
@@ -392,7 +392,7 @@
     "pluginLicense": "MIT",
     "pluginHash": "10eed5d46cfb24a1206730c3a11887fe4f21d30059a3eb9db3d5072daaba10ef",
     "pluginZip": "https://github.com/Neurosis404/EDMC-ServerStatus/releases/download/0.1.1/EDMC_ServerStatus-0.1.1.zip",
-    "pluginStars": "3"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-SpanshTools",
@@ -417,7 +417,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/url/9b61261cbc4375b877fe29c32151cdace9c9a7bb715359539bfa63f508e769a4",
     "pluginHash": "11dc77b5cd3b0d121b5fedf8cc52183bb0e48cf96d63e774af56793aa720b15c",
-    "pluginStars": "4"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMC-StreamHUD",
@@ -446,7 +446,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "sha256:43d6c45bef4473f4c687cd0200f75fb536f68c44a582777e7f496bfbedd7407f",
-    "pluginStars": "0"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMCHotkeys",
@@ -473,7 +473,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file-analysis/MThlNTY5YTI4N2Y3OGNhNDE3ZjIyZGFlNDE0MTFkZmY6MTc3MzEwODQ3Mg==",
     "pluginHash": "",
-    "pluginStars": "3"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDMCModernOverlay",
@@ -502,7 +502,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
     "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.9.0/vt-transparency.html",
     "pluginHash": "",
-    "pluginStars": "59"
+    "pluginStars": ""
   },
   {
     "pluginName": "GalaxyGPS",
@@ -528,7 +528,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "47cf74f3f28f191ef54baf4134ac74b964bd177ada4722e4ad1af51fa0196900",
-    "pluginStars": "11"
+    "pluginStars": ""
   },
   {
     "pluginName": "ED Multitool",
@@ -556,7 +556,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/Martin8O/ED-Multitool/main/EDMultitool/edmultitool/web/icon-192.png",
     "pluginVT": "https://www.virustotal.com/gui/url/be02562da823247162798f9dc99f1bd926d7a784204c788909b943730a05fe4f",
     "pluginHash": "d777c13a5875f00be4dda37778d71be7f8ea8e9e8e921ef492b53f8380ef3b50",
-    "pluginStars": "0"
+    "pluginStars": ""
   },
   {
     "pluginName": "EDPlanetNavigator",
@@ -584,7 +584,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "77ea095c04b982ac367e333b8c3baef20d07e2d0814600509d826838bab59ba6",
-    "pluginStars": "4"
+    "pluginStars": ""
   },
   {
     "pluginName": "ED Recon (EDR)",
@@ -638,7 +638,7 @@
     "pluginHash": "6bf7745da89b095ad3c0a755a74e5563d41b001d59c75e0cccd785a9fdecf54e",
     "pluginIcon": "https://edspecbot.com/logo.png",
     "pluginVT": "",
-    "pluginStars": "0"
+    "pluginStars": ""
   },
   {
     "pluginName": "ExploData",
@@ -665,7 +665,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "c43a11a9b56e534c419c2e799ae503deb17021d33aa288677b2d47fcd7ddd002",
-    "pluginStars": "13"
+    "pluginStars": ""
   },
   {
     "pluginName": "LandingPad",
@@ -690,7 +690,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "7d2051bd7f64cb62d7f50bb9d2f18e6f8f1669fca3664aca34386dd2be61861b",
-    "pluginStars": "52"
+    "pluginStars": ""
   },
   {
     "pluginName": "RhinoSpotter",
@@ -715,7 +715,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "289b5f2d3e974ea35edcd1ec5a163f5c079c3ca32304fed264452c028bfe95e3",
-    "pluginStars": "18"
+    "pluginStars": ""
   },
   {
     "pluginName": "Salty",
@@ -742,7 +742,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "",
-    "pluginStars": "0"
+    "pluginStars": ""
   },
   {
     "pluginName": "UpdateTD",
@@ -766,7 +766,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "6c4ec8bc7f2c6d24dc0947200c4598af525e59c2b97b2a5b6d179d3cb2b31ba0",
-    "pluginStars": "7"
+    "pluginStars": ""
   },
   {
     "pluginName": "Cargo Manifest",
