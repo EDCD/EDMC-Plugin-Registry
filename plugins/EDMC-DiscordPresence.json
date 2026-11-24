@@ -4,7 +4,7 @@
     "pluginZip": "https://github.com/LUC1F3R-007/edmc-discord-presence/releases/download/discordpresence-v3.3.0/DiscordPresence.v3.3.0.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
-    "pluginAuthors": ["LUC1F3R007"]
+    "pluginAuthors": ["LUC1F3R007"],
     "pluginMainLink": "https://github.com/LUC1F3R-007/edmc-discord-presence",
     "pluginLastUpdate": "2026-11-23",
     "pluginDirName": "DiscordPresence",
