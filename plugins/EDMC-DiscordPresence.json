@@ -8,7 +8,7 @@
     "pluginMainLink": "https://github.com/LUC1F3R-007/edmc-discord-presence",
     "pluginLastUpdate": "2026-11-23",
     "pluginDirName": "DiscordPresence",
-    "pluginCategory": ["Utility"]
+    "pluginCategory": ["Utility"],
     "pluginDesc": "Enables Discord rich presence for Elite Dangerous",
     "pluginLastTestedEDMC": "6.1.2",
     "pluginRequirements": [],
