@@ -48,7 +48,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/aussig/BGS-Tally/refs/heads/develop/assets/logo_bgstally_100x67.png",
     "pluginVT": "https://www.virustotal.com/gui/url/89870149fb325d70c619888b902c8fcffce3db4450608d30028f18b9e3ea8dcd",
     "pluginHash": "2976378ab99165396f13983b1eb5789ac1bfa7a71096f4096bd0a097a17e00c4",
-    "pluginStars": "63"
+    "pluginStars": "65"
   },
   {
     "pluginName": "CarrierBoard",
@@ -124,7 +124,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "dfc8d8233ba9f3d4357757e6d3f4a3fd52d1169cdb25a168af0ffe2e45dfa1dd",
-    "pluginStars": "50"
+    "pluginStars": "51"
   },
   {
     "pluginName": "EDMC-Engineering",
@@ -298,7 +298,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/dwomble/EDMC-NeutronDancer/master/assets/logo_alpha.png",
     "pluginVT": "https://www.virustotal.com/gui/file/0ae13fc2541cc28fecd8a42f0268d8542531cc597c51409f61cce17620bfaebc",
     "pluginHash": "0ae13fc2541cc28fecd8a42f0268d8542531cc597c51409f61cce17620bfaebc",
-    "pluginStars": "29"
+    "pluginStars": "30"
   },
   {
     "pluginName": "EDMC-Pioneer",
@@ -350,7 +350,7 @@
     "pluginIcon": "https://github.com/alby666/EDMC-PowerPlayProgress/blob/main/EDMC-PowerPlayProgres_logo.png",
     "pluginVT": "",
     "pluginHash": "1f15faa47a7c8521fffd24058cc583d57cbd054a43f7971d747255f9a2552e4c",
-    "pluginStars": "19"
+    "pluginStars": "20"
   },
   {
     "pluginName": "EDMC Screenshot Linux",
@@ -499,7 +499,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
     "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.9.0/vt-transparency.html",
     "pluginHash": "",
-    "pluginStars": "59"
+    "pluginStars": "60"
   },
   {
     "pluginName": "GalaxyGPS",
