@@ -1,0 +1,25 @@
+{
+  "pluginName": "ModernOverlayVR",
+  "pluginVer": "0.1.0",
+  "pluginZip": "https://github.com/DbrStudio/ModernOverlayVR/releases/download/v0.1.0/ModernOverlayVR-v0.1.0.zip",
+  "autoUpdateEnabled": false,
+  "autoInstallEnabled": false,
+  "pluginAuthors": ["DbrStudio"],
+  "pluginMainLink": "https://github.com/DbrStudio/ModernOverlayVR",
+  "pluginLastUpdate": "2026-11-26",
+  "pluginDirName": "ModernOverlayVR",
+  "pluginCategory": ["Utility"],
+  "pluginDesc": "Displays EDMCModernOverlay output in Elite Dangerous VR on Linux using an OpenXR layer, with live controls for overlay position, size and curvature.",
+  "pluginLastTestedEDMC": "6.1.2",
+  "pluginRequirements": [
+    "Linux with a working native OpenXR loader and Vulkan VR setup for Elite Dangerous",
+    "EDMCModernOverlay 0.9.2",
+    "Host Python 3 with PySide6",
+    "CMake 3.18+, C++17 compiler, OpenXR and Vulkan development files, and nlohmann-json headers",
+    "Flatpak EDMC requires host renderer access via flatpak-spawn --host"
+  ],
+  "pluginLicense": "GPL-3.0-only",
+  "pluginIcon": "",
+  "pluginVT": "https://www.virustotal.com/gui/file/efeaa61ad917c09cfb2f9aa3d7d0fe1753506c0f205bb0625c82863c96b88801",
+  "pluginHash": "efeaa61ad917c09cfb2f9aa3d7d0fe1753506c0f205bb0625c82863c96b88801"
+}
